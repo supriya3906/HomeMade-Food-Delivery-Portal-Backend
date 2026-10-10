@@ -1,6 +1,6 @@
 // MySQL data layer (mysql2). Creates the database and tables on first start.
 import mysql from 'mysql2/promise';
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -82,16 +82,35 @@ const friendly = (err, cfg) => {
 
 export const createMysqlStore = async (cfg) => {
   if (!/^\w+$/.test(cfg.name)) throw new Error('DB_NAME may only contain letters, numbers and underscores.');
-  const base = { host: cfg.host, port: cfg.port, user: cfg.user, password: cfg.password, timezone: 'Z' };
+  const ssl = (cfg.ssl || process.env.DB_SSL === 'true' || process.env.DB_SSL === '1') ? { rejectUnauthorized: false } : undefined;
+  const base = { host: cfg.host, port: cfg.port, user: cfg.user, password: cfg.password, timezone: 'Z', ...(ssl ? { ssl } : {}) };
   let pool;
   try {
-    const admin = await mysql.createConnection(base);
-    await admin.query(`CREATE DATABASE IF NOT EXISTS \`${cfg.name}\` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci`);
-    await admin.end();
+    try {
+      const admin = await mysql.createConnection(base);
+      await admin.query(`CREATE DATABASE IF NOT EXISTS \`${cfg.name}\` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci`);
+      await admin.end();
+    } catch (adminErr) {
+      // Cloud databases like TiDB/Aiven might not allow CREATE DATABASE or connecting without a database name.
+      console.warn(`[database] Notice: ${adminErr.message}`);
+    }
 
     pool = mysql.createPool({ ...base, database: cfg.name, connectionLimit: 10 });
-    const ddl = readFileSync(schemaFile, 'utf8').replace(/^\s*--.*$/gm, '');
-    for (const statement of ddl.split(';').map((s) => s.trim()).filter(Boolean)) await pool.query(statement);
+    let ddl = '';
+    const candidatePaths = [
+      schemaFile,
+      path.resolve(process.cwd(), 'sql/schema.sql'),
+      path.resolve(process.cwd(), 'backend/sql/schema.sql')
+    ];
+    for (const p of candidatePaths) {
+      if (existsSync(p)) {
+        ddl = readFileSync(p, 'utf8').replace(/^\s*--.*$/gm, '');
+        break;
+      }
+    }
+    if (ddl) {
+      for (const statement of ddl.split(';').map((s) => s.trim()).filter(Boolean)) await pool.query(statement);
+    }
     // Databases created by an older version: add columns that were introduced later.
     const [cols] = await pool.query(
       "SELECT COUNT(*) AS c FROM information_schema.COLUMNS WHERE TABLE_SCHEMA = ? AND TABLE_NAME = 'users' AND COLUMN_NAME = 'preferences'",

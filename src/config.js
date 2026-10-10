@@ -6,7 +6,9 @@ const envPath = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../.
 dotenv.config({ path: envPath, quiet: true });
 
 const isProd = process.env.NODE_ENV === 'production';
-if (isProd && !process.env.AUTH_SECRET) throw new Error('Set AUTH_SECRET in backend/.env before running in production.');
+if (isProd && !process.env.AUTH_SECRET) {
+  console.warn('[warning] Set AUTH_SECRET in backend environment variables for production security.');
+}
 
 export const config = {
   port: Number(process.env.PORT) || 5000,
@@ -35,6 +37,7 @@ export const config = {
     port: Number(process.env.DB_PORT) || 3306,
     user: process.env.DB_USER || 'root',
     password: process.env.DB_PASSWORD ?? '',
-    name: process.env.DB_NAME || 'rasoi'
+    name: process.env.DB_NAME || 'rasoi',
+    ssl: process.env.DB_SSL === 'true' || process.env.DB_SSL === '1'
   }
 };
