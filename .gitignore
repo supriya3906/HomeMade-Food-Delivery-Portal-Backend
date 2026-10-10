@@ -1,0 +1,42 @@
+# ==============================================================================
+# Rasoi Backend - Git Ignore Configuration
+# ==============================================================================
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Environment variables & secrets (keep .env.example template)
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Database & Runtime local storage
+*.sqlite
+*.sqlite-journal
+*.sqlite3
+*.db
+data/*.sqlite*
+data/*.bak
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor settings
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json

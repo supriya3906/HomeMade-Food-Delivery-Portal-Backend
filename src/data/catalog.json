@@ -1,0 +1,3997 @@
+{
+  "chefs": [
+    {
+      "id": "c1",
+      "name": "Meenakshi Sundaram",
+      "city": "Madurai",
+      "cuisine": "South Indian",
+      "speciality": "Temple-town thalis, dosas and coconut rice",
+      "experience": 18,
+      "rating": 4.8,
+      "orders": 1320,
+      "bio": "Meenakshi learned to cook on a wood fire in her grandmother’s kitchen. Her sambar masala is still ground fresh every Sunday.",
+      "color": "#2F6B4F",
+      "nameTa": "மீனாட்சி சுந்தரம்",
+      "cityTa": "மதுரை",
+      "cuisineTa": "தென்னிந்திய",
+      "specialityTa": "கோவில் நகர தாலி, தோசை மற்றும் தேங்காய் சாதம்",
+      "bioTa": "மீனாட்சி தன் பாட்டியின் சமையலறையில் விறகு அடுப்பில் சமைக்கக் கற்றுக்கொண்டார். இன்றும் ஒவ்வொரு ஞாயிறும் சாம்பார் மசாலாவைப் புதிதாக அரைக்கிறார்."
+    },
+    {
+      "id": "c2",
+      "name": "Harpreet Kaur",
+      "city": "Ludhiana",
+      "cuisine": "Punjabi",
+      "speciality": "Ghee-rich comfort food and tandoor breads",
+      "experience": 22,
+      "rating": 4.9,
+      "orders": 2140,
+      "bio": "Harpreet cooks the way Punjabi homes do — slow dals, hand-rolled phulkas and lassi churned in the morning.",
+      "color": "#C1531B",
+      "nameTa": "ஹர்ப்ரீத் கௌர்",
+      "cityTa": "லூதியானா",
+      "cuisineTa": "பஞ்சாபி",
+      "specialityTa": "நெய் மணக்கும் வீட்டு உணவும் தந்தூர் ரொட்டிகளும்",
+      "bioTa": "ஹர்ப்ரீத் பஞ்சாபி வீடுகளைப் போலவே சமைக்கிறார் — மெதுவாக வேகும் பருப்பு, கையால் தட்டிய புல்கா, காலையில் கடைந்த லஸ்ஸி."
+    },
+    {
+      "id": "c3",
+      "name": "Ayesha Begum",
+      "city": "Hyderabad",
+      "cuisine": "Hyderabadi & Mughlai",
+      "speciality": "Dum biryani and rich gravies",
+      "experience": 15,
+      "rating": 4.9,
+      "orders": 1875,
+      "bio": "Ayesha seals her biryani with dough and lets it steam on dum, just like her mother did for Eid feasts.",
+      "color": "#7A3E9D",
+      "nameTa": "ஆயிஷா பேகம்",
+      "cityTa": "ஹைதராபாத்",
+      "cuisineTa": "ஹைதராபாதி & முகலாய்",
+      "specialityTa": "தம் பிரியாணியும் செறிவான குழம்புகளும்",
+      "bioTa": "ஆயிஷா தன் தாயைப் போலவே பிரியாணியை மாவால் மூடி தம்மில் ஆவியில் வேக வைக்கிறார்."
+    },
+    {
+      "id": "c4",
+      "name": "Sunita Banerjee",
+      "city": "Kolkata",
+      "cuisine": "Bengali",
+      "speciality": "Mustard fish curries and milk sweets",
+      "experience": 20,
+      "rating": 4.8,
+      "orders": 940,
+      "bio": "A Bengali kitchen classic-keeper: fresh river fish, cold-pressed mustard oil and sweets made from milk set that morning.",
+      "color": "#B5483A",
+      "nameTa": "சுனிதா பானர்ஜி",
+      "cityTa": "கொல்கத்தா",
+      "cuisineTa": "வங்காள",
+      "specialityTa": "கடுகு மீன் குழம்பும் பால் இனிப்புகளும்",
+      "bioTa": "வங்காளச் சமையலறையின் பாரம்பரியக் காவலர்: புதிய ஆற்று மீன், செக்கு கடுகு எண்ணெய், அன்று காலை உறைந்த பாலில் செய்த இனிப்புகள்."
+    },
+    {
+      "id": "c5",
+      "name": "Rajesh Patil",
+      "city": "Pune",
+      "cuisine": "Maharashtrian & street snacks",
+      "speciality": "Breakfast poha, samosas and monsoon pakoras",
+      "experience": 12,
+      "rating": 4.7,
+      "orders": 1610,
+      "bio": "Rajesh ran a tiny tea stall before turning to home delivery. Everything is fried to order and served hot.",
+      "color": "#B8860B",
+      "nameTa": "ராஜேஷ் பாட்டீல்",
+      "cityTa": "புனே",
+      "cuisineTa": "மகாராஷ்டிரா & தெரு சிற்றுண்டி",
+      "specialityTa": "காலை போஹா, சமோசா மற்றும் மழைக்கால பக்கோடா",
+      "bioTa": "வீட்டு டெலிவரிக்கு வரும் முன் ராஜேஷ் ஒரு சிறிய டீக்கடை நடத்தினார். எல்லாமே ஆர்டருக்குப் பிறகு சூடாகப் பொரிக்கப்படுகிறது."
+    },
+    {
+      "id": "c6",
+      "name": "Kavita Sharma",
+      "city": "Jaipur",
+      "cuisine": "North Indian",
+      "speciality": "Seasonal sabzi and traditional mithai",
+      "experience": 16,
+      "rating": 4.7,
+      "orders": 870,
+      "bio": "Kavita cooks with the seasons — winter carrots for halwa, fresh spinach for palak — and makes her paneer at home.",
+      "color": "#A8324E",
+      "nameTa": "கவிதா சர்மா",
+      "cityTa": "ஜெய்ப்பூர்",
+      "cuisineTa": "வட இந்திய",
+      "specialityTa": "பருவகாலக் காய்கறிகளும் பாரம்பரிய இனிப்புகளும்",
+      "bioTa": "கவிதா பருவத்திற்கேற்பச் சமைக்கிறார் — குளிர்காலக் கேரட்டில் அல்வா, புதிய கீரையில் பாலக்; பனீரை வீட்டிலேயே செய்கிறார்."
+    },
+    {
+      "id": "c7",
+      "name": "Lakshmi Nair",
+      "city": "Kochi",
+      "cuisine": "Kerala",
+      "speciality": "Appam, stew, fish curry and Malabar parotta",
+      "experience": 14,
+      "rating": 4.8,
+      "orders": 760,
+      "color": "#0E7490",
+      "bio": "Lakshmi cooks the Kerala way — coconut milk pressed fresh every morning, curry leaves from the garden and fish bought at the harbour.",
+      "nameTa": "லட்சுமி நாயர்",
+      "cityTa": "கொச்சி",
+      "cuisineTa": "கேரள",
+      "specialityTa": "ஆப்பம், ஸ்டூ, மீன் கறி மற்றும் மலபார் பரோட்டா",
+      "bioTa": "லட்சுமி கேரள முறையில் சமைக்கிறார் — தினமும் காலை புதிதாகப் பிழிந்த தேங்காய்ப் பால், தோட்டத்துக் கறிவேப்பிலை, துறைமுகத்தில் வாங்கிய மீன்."
+    },
+    {
+      "id": "c8",
+      "name": "Hetal Shah",
+      "city": "Ahmedabad",
+      "cuisine": "Gujarati",
+      "speciality": "Thepla, dhokla, kadhi and khichdi",
+      "experience": 17,
+      "rating": 4.7,
+      "orders": 690,
+      "color": "#B45309",
+      "bio": "Hetal grew up in a Gujarati joint family where lunch was a daily festival. Her dhokla batter is fermented overnight and steamed to order.",
+      "nameTa": "ஹேதல் ஷா",
+      "cityTa": "அகமதாபாத்",
+      "cuisineTa": "குஜராத்தி",
+      "specialityTa": "தேப்லா, தோக்ளா, கடி மற்றும் கிச்சடி",
+      "bioTa": "ஹேதல் குஜராத்தி கூட்டுக் குடும்பத்தில் வளர்ந்தவர்; அங்கு மதிய உணவு தினமும் விழா. தோக்ளா மாவு இரவு முழுவதும் புளிக்க வைக்கப்பட்டு ஆர்டருக்கு ஆவியில் வேகிறது."
+    },
+    {
+      "id": "c9",
+      "name": "Venkat Reddy",
+      "city": "Guntur",
+      "cuisine": "Andhra",
+      "speciality": "Pesarattu, spicy chutneys and Andhra meals",
+      "experience": 19,
+      "rating": 4.7,
+      "orders": 810,
+      "color": "#9F1239",
+      "bio": "Venkat is from the chilli capital of India. He grinds his chutneys on a stone every morning and believes breakfast should wake you up.",
+      "nameTa": "வெங்கட் ரெட்டி",
+      "cityTa": "குண்டூர்",
+      "cuisineTa": "ஆந்திரா",
+      "specialityTa": "பெசரட்டு, காரமான சட்னிகள் மற்றும் ஆந்திரா சாப்பாடு",
+      "bioTa": "வெங்கட் இந்தியாவின் மிளகாய்த் தலைநகரைச் சேர்ந்தவர். தினமும் காலை கல்லில் சட்னி அரைக்கிறார்; காலை உணவு உங்களை எழுப்ப வேண்டும் என்பது அவர் நம்பிக்கை."
+    }
+  ],
+  "foods": [
+    {
+      "id": "b01",
+      "name": "Crispy Medu Vada (2 pc)",
+      "nameTa": null,
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 75,
+      "rating": 4.8,
+      "reviews": 68,
+      "prepMinutes": 15,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Golden-fried lentil doughnuts with a crisp crust and fluffy centre, served with shallot sambar and fresh coconut chutney.",
+      "descriptionTa": null,
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "crispy medu vada (2 pc)"
+        ],
+        [
+          "breakfast"
+        ]
+      ]
+    },
+    {
+      "id": "b02",
+      "name": "Rava Upma with Ghee & Chutney",
+      "nameTa": null,
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 65,
+      "rating": 4.6,
+      "reviews": 52,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Roasted semolina tempered with mustard seeds, ginger, green chillies, cashews and curry leaves, topped with pure ghee.",
+      "descriptionTa": null,
+      "tags": [
+        "Comfort food"
+      ],
+      "photoQuery": [
+        [
+          "rava upma with ghee & chutney"
+        ],
+        [
+          "breakfast"
+        ]
+      ]
+    },
+    {
+      "id": "b03",
+      "name": "Poori Bhaji (3 pc)",
+      "nameTa": null,
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 95,
+      "rating": 4.8,
+      "reviews": 94,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Puffy deep-fried wheat pooris served with home-style spiced potato bhaji and tangy mango pickle.",
+      "descriptionTa": null,
+      "tags": [
+        "Weekend special"
+      ],
+      "photoQuery": [
+        [
+          "poori bhaji (3 pc)"
+        ],
+        [
+          "breakfast"
+        ]
+      ]
+    },
+    {
+      "id": "b04",
+      "name": "Onion Rava Masala Dosa",
+      "nameTa": null,
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 105,
+      "rating": 4.7,
+      "reviews": 78,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Crisp semolina crepe studded with finely chopped onions, cumin and peppercorns, filled with potato masala.",
+      "descriptionTa": null,
+      "tags": [
+        "Crispy"
+      ],
+      "photoQuery": [
+        [
+          "onion rava masala dosa"
+        ],
+        [
+          "breakfast"
+        ]
+      ]
+    },
+    {
+      "id": "b05",
+      "name": "Appam with Vegetable Stew (2 pc)",
+      "nameTa": null,
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 110,
+      "rating": 4.9,
+      "reviews": 83,
+      "prepMinutes": 25,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Soft-centred fermented rice hoppers with lacey edges, paired with aromatic coconut milk vegetable stew.",
+      "descriptionTa": null,
+      "tags": [
+        "Kerala special"
+      ],
+      "photoQuery": [
+        [
+          "appam with vegetable stew (2 pc)"
+        ],
+        [
+          "breakfast"
+        ]
+      ]
+    },
+    {
+      "id": "b06",
+      "name": "Ghee Ven Pongal with Chutney",
+      "nameTa": null,
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 85,
+      "rating": 4.8,
+      "reviews": 64,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Melt-in-mouth rice and moong dal porridge tempered with black pepper, cumin, ginger, curry leaves and ghee-roasted cashews.",
+      "descriptionTa": null,
+      "tags": [
+        "Temple special"
+      ],
+      "photoQuery": [
+        [
+          "ghee ven pongal with chutney"
+        ],
+        [
+          "breakfast"
+        ]
+      ]
+    },
+    {
+      "id": "b07",
+      "name": "Paneer Stuffed Paratha (2 pc)",
+      "nameTa": null,
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c2",
+      "icon": "🍽️",
+      "price": 105,
+      "rating": 4.8,
+      "reviews": 89,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Handmade wheat parathas filled with freshly crumbled spiced paneer, roasted with butter and served with thick curd.",
+      "descriptionTa": null,
+      "tags": [
+        "Protein rich"
+      ],
+      "photoQuery": [
+        [
+          "paneer stuffed paratha (2 pc)"
+        ],
+        [
+          "breakfast"
+        ]
+      ]
+    },
+    {
+      "id": "b08",
+      "name": "Kanda Batata Poha",
+      "nameTa": null,
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 75,
+      "rating": 4.5,
+      "reviews": 49,
+      "prepMinutes": 15,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Traditional Maharashtrian breakfast of flattened rice cooked with onions, tender diced potatoes, turmeric and crunchy peanuts.",
+      "descriptionTa": null,
+      "tags": [
+        "Light meal"
+      ],
+      "photoQuery": [
+        [
+          "kanda batata poha"
+        ],
+        [
+          "breakfast"
+        ]
+      ]
+    },
+    {
+      "id": "d01",
+      "name": "Bhindi Do Pyaza with 3 Rotis",
+      "nameTa": null,
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 160,
+      "rating": 4.6,
+      "reviews": 51,
+      "prepMinutes": 25,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Tender okra sauteed with caramelised double-onions, amchur and garam masala, accompanied by whole wheat rotis.",
+      "descriptionTa": null,
+      "tags": [
+        "Home comfort"
+      ],
+      "photoQuery": [
+        [
+          "bhindi do pyaza with 3 rotis"
+        ],
+        [
+          "dinner"
+        ]
+      ]
+    },
+    {
+      "id": "d02",
+      "name": "Methi Malai Matar",
+      "nameTa": null,
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c2",
+      "icon": "🍽️",
+      "price": 185,
+      "rating": 4.7,
+      "reviews": 67,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Fresh fenugreek leaves and sweet green peas simmered in a mildly sweet, rich cashew and fresh cream gravy.",
+      "descriptionTa": null,
+      "tags": [
+        "Creamy"
+      ],
+      "photoQuery": [
+        [
+          "methi malai matar"
+        ],
+        [
+          "dinner"
+        ]
+      ]
+    },
+    {
+      "id": "d03",
+      "name": "Mughlai Chicken Korma",
+      "nameTa": null,
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c3",
+      "icon": "🍽️",
+      "price": 265,
+      "rating": 4.9,
+      "reviews": 122,
+      "prepMinutes": 45,
+      "diet": "non-veg",
+      "spice": "Medium",
+      "description": "Succulent chicken slow-cooked in a velvety paste of fried onions, yoghurt and aromatic saffron-infused whole spices.",
+      "descriptionTa": null,
+      "tags": [
+        "Chef special"
+      ],
+      "photoQuery": [
+        [
+          "mughlai chicken korma"
+        ],
+        [
+          "dinner"
+        ]
+      ]
+    },
+    {
+      "id": "d04",
+      "name": "Paneer Tikka Masala with Naan",
+      "nameTa": null,
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 210,
+      "rating": 4.8,
+      "reviews": 88,
+      "prepMinutes": 35,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Marinated and chargrilled paneer cubes simmered in a robust, spiced onion-tomato gravy, served with butter naan.",
+      "descriptionTa": null,
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "paneer tikka masala with naan"
+        ],
+        [
+          "dinner"
+        ]
+      ]
+    },
+    {
+      "id": "f01",
+      "name": "Home-style Dal & Ghee Phulka Thali",
+      "nameTa": "தால் & நெய் புல்கா தாலி",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c2",
+      "icon": "🍛",
+      "price": 180,
+      "rating": 4.9,
+      "reviews": 124,
+      "prepMinutes": 35,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Slow-cooked dal finished with home-churned white butter, four soft wheat phulkas brushed with ghee, jeera rice and a fresh salad.",
+      "descriptionTa": "நெய் கலந்த வெண்ணெய் தடவிய மெதுவாக வேகவைத்த பருப்பு, நெய் தடவிய நான்கு மென்மையான கோதுமை புல்காக்கள், ஜீரா சாதம் மற்றும் புதிய சாலட்.",
+      "tags": [
+        "Bestseller",
+        "Comfort food"
+      ],
+      "photoQuery": [
+        [
+          "dal roti thali",
+          "north indian thali",
+          "indian thali"
+        ],
+        [
+          "thali"
+        ]
+      ]
+    },
+    {
+      "id": "f02",
+      "name": "South Indian Veg Thali",
+      "nameTa": "தென்னிந்திய சைவ தாலி",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c1",
+      "icon": "🍱",
+      "price": 170,
+      "rating": 4.7,
+      "reviews": 88,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Steamed rice with sambar, coconut chutney, a seasonal poriyal, rasam and a crisp appalam, plated the way it is at home.",
+      "descriptionTa": "சாதம், சாம்பார், தேங்காய் சட்னி, பருவகாலப் பொரியல், ரசம் மற்றும் மொறுமொறுப்பான அப்பளம் — வீட்டில் பரிமாறுவது போலவே.",
+      "tags": [
+        "Wholesome"
+      ],
+      "photoQuery": [
+        [
+          "south indian thali",
+          "south indian meals banana leaf",
+          "kerala sadya"
+        ],
+        [
+          "thali",
+          "meals",
+          "sadya",
+          "sadhya",
+          "banana leaf"
+        ]
+      ]
+    },
+    {
+      "id": "f03",
+      "name": "Punjabi Rajma Chawal",
+      "nameTa": "ராஜ்மா சாவல்",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c2",
+      "icon": "🍚",
+      "price": 150,
+      "rating": 4.8,
+      "reviews": 142,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Kidney beans simmered overnight in a hand-ground onion-tomato masala, served over fluffy steamed basmati rice.",
+      "descriptionTa": "இரவு முழுவதும் கையால் அரைத்த வெங்காய-தக்காளி மசாலாவில் வேகவைத்த ராஜ்மா, மென்மையான பாஸ்மதி சாதத்துடன்.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "rajma chawal",
+          "rajma rice",
+          "rajma masala"
+        ],
+        [
+          "rajma"
+        ]
+      ]
+    },
+    {
+      "id": "f04",
+      "name": "Butter Chicken (Home-style)",
+      "nameTa": "பட்டர் சிக்கன் (வீட்டு பாணி)",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c3",
+      "icon": "🍗",
+      "price": 240,
+      "rating": 4.9,
+      "reviews": 201,
+      "prepMinutes": 40,
+      "diet": "non-veg",
+      "spice": "Medium",
+      "description": "Tandoor-charred chicken simmered in a silky tomato and cashew gravy, mellowed with fresh cream and a touch of home-made butter.",
+      "descriptionTa": "தந்தூரில் வாட்டிய கோழி, முந்திரி-தக்காளி கிரேவியில் மென்மையாக வெந்து, புதிய க்ரீம் மற்றும் வீட்டு வெண்ணெயுடன்.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "butter chicken",
+          "murgh makhani",
+          "chicken makhani"
+        ],
+        [
+          "butter chicken",
+          "makhani",
+          "makhni"
+        ]
+      ]
+    },
+    {
+      "id": "f05",
+      "name": "Kolkata Mustard Fish Curry",
+      "nameTa": "கொல்கத்தா கடுகு மீன் குழம்பு",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c4",
+      "icon": "🐟",
+      "price": 260,
+      "rating": 4.8,
+      "reviews": 76,
+      "prepMinutes": 40,
+      "diet": "non-veg",
+      "spice": "Medium",
+      "description": "Fresh fish simmered in a stone-ground mustard and green chilli gravy with cold-pressed mustard oil, a Bengali classic.",
+      "descriptionTa": "கல்லில் அரைத்த கடுகு, பச்சை மிளகாய் கிரேவியில் செக்கு கடுகு எண்ணெயுடன் வேகவைத்த புதிய மீன் — வங்காளக் கிளாசிக்.",
+      "tags": [
+        "Regional special"
+      ],
+      "photoQuery": [
+        [
+          "bengali fish curry mustard",
+          "shorshe ilish",
+          "macher jhol",
+          "indian fish curry"
+        ],
+        [
+          "fish curry",
+          "shorshe",
+          "jhol",
+          "ilish"
+        ]
+      ]
+    },
+    {
+      "id": "f06",
+      "name": "Palak Paneer",
+      "nameTa": "பாலக் பனீர்",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c6",
+      "icon": "🥬",
+      "price": 190,
+      "rating": 4.6,
+      "reviews": 95,
+      "prepMinutes": 25,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Fresh spinach puréed and simmered with soft home-set paneer cubes, garlic and a light tempering of ghee.",
+      "descriptionTa": "அரைத்த புதிய பசலைக்கீரையில் வீட்டில் உறைந்த மென்மையான பனீர் துண்டுகள், பூண்டு மற்றும் நெய் தாளிப்புடன்.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "palak paneer",
+          "saag paneer"
+        ],
+        [
+          "palak",
+          "saag"
+        ]
+      ]
+    },
+    {
+      "id": "f07",
+      "name": "Claypot Paneer Dum Biryani",
+      "nameTa": "பனீர் தம் பிரியாணி (மண்பானை)",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c3",
+      "icon": "🍲",
+      "price": 230,
+      "rating": 4.9,
+      "reviews": 156,
+      "prepMinutes": 45,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Layers of long-grain basmati, malai paneer and caramelised onions, sealed and slow-cooked the traditional dum way.",
+      "descriptionTa": "நீண்ட பாஸ்மதி அரிசி, மலாய் பனீர், கேரமலைஸ் வெங்காயம் அடுக்கி, பாரம்பரிய தம் முறையில் மூடி மெதுவாக வேகவைக்கப்பட்டது.",
+      "tags": [
+        "Chef pick"
+      ],
+      "photoQuery": [
+        [
+          "paneer biryani",
+          "vegetable biryani claypot",
+          "veg biryani"
+        ],
+        [
+          "biryani",
+          "biriyani"
+        ]
+      ]
+    },
+    {
+      "id": "f08",
+      "name": "Hyderabadi Chicken Dum Biryani",
+      "nameTa": "ஹைதராபாத் சிக்கன் தம் பிரியாணி",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c3",
+      "icon": "🍚",
+      "price": 260,
+      "rating": 4.9,
+      "reviews": 233,
+      "prepMinutes": 50,
+      "diet": "non-veg",
+      "spice": "Medium",
+      "description": "Marinated chicken and fragrant basmati rice, layered with saffron and fried onions, cooked low and slow.",
+      "descriptionTa": "ஊறவைத்த கோழி, மணமான பாஸ்மதி, குங்குமப்பூ, பொரித்த வெங்காயம் அடுக்கி, குறைந்த தீயில் மெதுவாக வேகவைக்கப்பட்டது.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "hyderabadi chicken biryani",
+          "hyderabadi biryani",
+          "chicken biryani"
+        ],
+        [
+          "biryani",
+          "biriyani"
+        ]
+      ]
+    },
+    {
+      "id": "f09",
+      "name": "Lemon Coconut Rice",
+      "nameTa": "எலுமிச்சை தேங்காய் சாதம்",
+      "category": "lunch",
+      "meals": [
+        "lunch",
+        "brunch"
+      ],
+      "chefId": "c1",
+      "icon": "🍋",
+      "price": 120,
+      "rating": 4.5,
+      "reviews": 54,
+      "prepMinutes": 20,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Tempered mustard seeds, curry leaves and fresh coconut folded into rice with a bright squeeze of lemon.",
+      "descriptionTa": "கடுகு, கறிவேப்பிலை, புதிய தேங்காய் கலந்த சாதம்; எலுமிச்சைச் சாறின் புத்துணர்வுடன்.",
+      "tags": [
+        "Light meal"
+      ],
+      "photoQuery": [
+        [
+          "lemon rice",
+          "chitranna",
+          "coconut rice"
+        ],
+        [
+          "lemon rice",
+          "chitranna",
+          "coconut rice"
+        ]
+      ]
+    },
+    {
+      "id": "f10",
+      "name": "Butter Garlic Naan (2 pc)",
+      "nameTa": "பட்டர் கார்லிக் நான் (2 துண்டு)",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c2",
+      "icon": "🫓",
+      "price": 60,
+      "rating": 4.7,
+      "reviews": 110,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Hand-stretched naan, char-cooked and finished with home-made garlic butter and coriander.",
+      "descriptionTa": "கையால் இழுத்த நான், வாட்டி, வீட்டு பூண்டு வெண்ணெய் மற்றும் கொத்தமல்லி தடவியது.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "garlic naan",
+          "butter naan",
+          "naan bread"
+        ],
+        [
+          "naan"
+        ]
+      ]
+    },
+    {
+      "id": "f11",
+      "name": "Tandoori Roti (4 pc)",
+      "nameTa": "தந்தூரி ரொட்டி (4 துண்டு)",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c2",
+      "icon": "🥙",
+      "price": 50,
+      "rating": 4.6,
+      "reviews": 63,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Whole-wheat rotis rolled fresh to order and lightly brushed with ghee.",
+      "descriptionTa": "ஆர்டருக்கு உருட்டிய முழு கோதுமை ரொட்டிகள், லேசாக நெய் தடவியவை.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "tandoori roti",
+          "roti tandoor",
+          "indian roti"
+        ],
+        [
+          "roti",
+          "chapati",
+          "chapatti"
+        ]
+      ]
+    },
+    {
+      "id": "f12",
+      "name": "Masala Dosa",
+      "nameTa": "மசாலா தோசை",
+      "category": "breakfast",
+      "meals": [
+        "breakfast",
+        "brunch"
+      ],
+      "chefId": "c1",
+      "icon": "🥞",
+      "price": 90,
+      "rating": 4.8,
+      "reviews": 132,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "A crisp fermented rice-and-lentil crepe filled with a lightly spiced potato masala, served with sambar and chutney.",
+      "descriptionTa": "புளித்த அரிசி-உளுந்து மாவில் மொறுமொறுப்பான தோசை, லேசான உருளைக்கிழங்கு மசாலா நிரப்பி, சாம்பார் மற்றும் சட்னியுடன்.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "masala dosa",
+          "dosa sambar"
+        ],
+        [
+          "dosa",
+          "dosai"
+        ]
+      ]
+    },
+    {
+      "id": "f13",
+      "name": "Poha with Sev",
+      "nameTa": "போஹா சேவ்",
+      "category": "breakfast",
+      "meals": [
+        "breakfast",
+        "brunch"
+      ],
+      "chefId": "c5",
+      "icon": "🍚",
+      "price": 70,
+      "rating": 4.4,
+      "reviews": 41,
+      "prepMinutes": 15,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Flattened rice tossed with mustard seeds, curry leaves, peanuts and onion, topped with crunchy sev.",
+      "descriptionTa": "கடுகு, கறிவேப்பிலை, வேர்க்கடலை, வெங்காயத்துடன் தாளித்த அவல்; மேலே மொறுமொறுப்பான சேவ்.",
+      "tags": [
+        "Light meal"
+      ],
+      "photoQuery": [
+        [
+          "poha",
+          "kanda poha"
+        ],
+        [
+          "poha",
+          "pohe"
+        ]
+      ]
+    },
+    {
+      "id": "f14",
+      "name": "Stuffed Aloo Paratha (2 pc)",
+      "nameTa": "ஆலு பராத்தா (2 துண்டு)",
+      "category": "breakfast",
+      "meals": [
+        "breakfast",
+        "brunch"
+      ],
+      "chefId": "c2",
+      "icon": "🫓",
+      "price": 90,
+      "rating": 4.7,
+      "reviews": 87,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Whole-wheat parathas stuffed with a spiced potato filling, pan-roasted in ghee and served with curd and pickle.",
+      "descriptionTa": "மசாலா உருளைக்கிழங்கு நிரப்பிய கோதுமை பராத்தா, நெய்யில் வாட்டி, தயிர் மற்றும் ஊறுகாயுடன்.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "aloo paratha",
+          "stuffed paratha",
+          "paratha"
+        ],
+        [
+          "paratha",
+          "parantha"
+        ]
+      ]
+    },
+    {
+      "id": "f15",
+      "name": "Homemade Samosa (2 pc)",
+      "nameTa": "வீட்டு சமோசா (2 துண்டு)",
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🥟",
+      "price": 50,
+      "rating": 4.6,
+      "reviews": 98,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Crisp pastry filled with spiced potatoes and peas, fried fresh to order and served with tamarind chutney.",
+      "descriptionTa": "மசாலா உருளைக்கிழங்கு-பட்டாணி நிரப்பிய மொறுமொறுப்பான சமோசா, புளி சட்னியுடன் ஆர்டருக்குப் பொரிக்கப்படுகிறது.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "samosa",
+          "samosas chutney"
+        ],
+        [
+          "samosa"
+        ]
+      ]
+    },
+    {
+      "id": "f16",
+      "name": "Masala Pakora Platter",
+      "nameTa": "மசாலா பக்கோடா தட்டு",
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🍤",
+      "price": 110,
+      "rating": 4.5,
+      "reviews": 52,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "A mix of onion, potato and spinach fritters in a gram-flour batter, fried golden and crisp.",
+      "descriptionTa": "கடலை மாவில் வெங்காயம், உருளைக்கிழங்கு, கீரை பக்கோடாக்கள் — பொன்னிறமாகவும் மொறுமொறுப்பாகவும்.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "pakora",
+          "onion pakoda",
+          "bhajiya"
+        ],
+        [
+          "pakora",
+          "pakoda",
+          "bhajiya",
+          "bhaji",
+          "bajji"
+        ]
+      ]
+    },
+    {
+      "id": "f17",
+      "name": "Gulab Jamun (4 pc)",
+      "nameTa": "குலாப் ஜாமூன் (4 துண்டு)",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c6",
+      "icon": "🍯",
+      "price": 80,
+      "rating": 4.8,
+      "reviews": 140,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Soft milk-solid dumplings soaked in a light cardamom and rose sugar syrup, made fresh in small batches.",
+      "descriptionTa": "ஏலக்காய்-ரோஜா சர்க்கரைப் பாகில் ஊறிய மென்மையான பால்கோவா உருண்டைகள்; சிறிய அளவில் புதிதாகச் செய்யப்பட்டவை.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "gulab jamun",
+          "gulab jamun bowl"
+        ],
+        [
+          "gulab jamun",
+          "gulabjamun"
+        ]
+      ]
+    },
+    {
+      "id": "f18",
+      "name": "Kesar Rasmalai (2 pc)",
+      "nameTa": "கேசர் ரசமலாய் (2 துண்டு)",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c4",
+      "icon": "🍮",
+      "price": 100,
+      "rating": 4.7,
+      "reviews": 66,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Soft paneer discs soaked in saffron and cardamom sweetened milk, topped with chopped pistachios.",
+      "descriptionTa": "குங்குமப்பூ-ஏலக்காய் இனிப்புப் பாலில் ஊறிய மென்மையான பனீர் வில்லைகள், நறுக்கிய பிஸ்தாவுடன்.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "rasmalai",
+          "ras malai"
+        ],
+        [
+          "rasmalai",
+          "ras malai"
+        ]
+      ]
+    },
+    {
+      "id": "f19",
+      "name": "Homemade Gajar Ka Halwa",
+      "nameTa": "வீட்டு கேரட் அல்வா",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c6",
+      "icon": "🥕",
+      "price": 90,
+      "rating": 4.6,
+      "reviews": 47,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Grated carrots slow-cooked in full-cream milk and ghee, finished with cashews and raisins.",
+      "descriptionTa": "துருவிய கேரட்டை முழு கொழுப்புப் பாலிலும் நெய்யிலும் மெதுவாக வேகவைத்து, முந்திரி-திராட்சை சேர்த்தது.",
+      "tags": [
+        "Seasonal"
+      ],
+      "photoQuery": [
+        [
+          "gajar ka halwa",
+          "carrot halwa"
+        ],
+        [
+          "halwa",
+          "halva"
+        ]
+      ]
+    },
+    {
+      "id": "f20",
+      "name": "Fresh Masala Chaas",
+      "nameTa": "மசாலா மோர்",
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c1",
+      "icon": "🥛",
+      "price": 40,
+      "rating": 4.5,
+      "reviews": 35,
+      "prepMinutes": 5,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Chilled spiced buttermilk with roasted cumin, curry leaves and fresh coriander.",
+      "descriptionTa": "வறுத்த சீரகம், கறிவேப்பிலை, புதிய கொத்தமல்லி சேர்த்த குளிர்ந்த மசாலா மோர்.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "masala chaas",
+          "indian buttermilk",
+          "chaas"
+        ],
+        [
+          "chaas",
+          "buttermilk",
+          "chhaas",
+          "mattha"
+        ]
+      ]
+    },
+    {
+      "id": "f21",
+      "name": "Homemade Mango Lassi",
+      "nameTa": "வீட்டு மாம்பழ லஸ்ஸி",
+      "category": "drinks",
+      "meals": [
+        "drinks",
+        "brunch"
+      ],
+      "chefId": "c2",
+      "icon": "🥭",
+      "price": 60,
+      "rating": 4.8,
+      "reviews": 71,
+      "prepMinutes": 5,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Thick, creamy yoghurt blended with fresh mango pulp and a hint of cardamom.",
+      "descriptionTa": "கெட்டியான கிரீமி தயிரில் புதிய மாம்பழக் கூழும் சிறிது ஏலக்காயும் சேர்த்து அரைத்தது.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "mango lassi"
+        ],
+        [
+          "lassi"
+        ]
+      ]
+    },
+    {
+      "id": "f22",
+      "name": "Masala Chai",
+      "nameTa": "மசாலா டீ",
+      "category": "drinks",
+      "meals": [
+        "drinks",
+        "breakfast"
+      ],
+      "chefId": "c5",
+      "icon": "☕",
+      "price": 30,
+      "rating": 4.7,
+      "reviews": 58,
+      "prepMinutes": 5,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Freshly brewed tea simmered with milk and home-ground ginger-cardamom masala.",
+      "descriptionTa": "வீட்டில் அரைத்த இஞ்சி-ஏலக்காய் மசாலாவுடன் பாலில் கொதிக்க வைத்த புதிய தேநீர்.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "masala chai",
+          "indian masala tea",
+          "chai"
+        ],
+        [
+          "chai"
+        ]
+      ]
+    },
+    {
+      "id": "f23",
+      "name": "Chettinad Chicken Curry Meal",
+      "nameTa": "செட்டிநாடு சிக்கன் கறி சாப்பாடு",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c1",
+      "icon": "🍛",
+      "price": 220,
+      "rating": 4.7,
+      "reviews": 58,
+      "prepMinutes": 35,
+      "diet": "non-veg",
+      "spice": "Hot",
+      "description": "A fiery Chettinad-style chicken curry with roasted spices, served with steamed rice and a side of curd.",
+      "descriptionTa": "வறுத்த மசாலாக்களுடன் காரமான செட்டிநாட்டு சிக்கன் கறி; சாதம் மற்றும் தயிருடன்.",
+      "tags": [
+        "Regional special"
+      ],
+      "photoQuery": [
+        [
+          "chettinad chicken curry",
+          "chicken chettinad"
+        ],
+        [
+          "chettinad"
+        ]
+      ]
+    },
+    {
+      "id": "f24",
+      "name": "Egg Curry & Rice",
+      "nameTa": "முட்டை கறி சாதம்",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c5",
+      "icon": "🍳",
+      "price": 140,
+      "rating": 4.5,
+      "reviews": 44,
+      "prepMinutes": 25,
+      "diet": "non-veg",
+      "spice": "Medium",
+      "description": "Boiled eggs simmered in a home-style onion-tomato masala, served over steamed rice with a wedge of lemon.",
+      "descriptionTa": "வீட்டு பாணி வெங்காய-தக்காளி மசாலாவில் வேகவைத்த முட்டை, சாதம் மற்றும் எலுமிச்சை துண்டுடன்.",
+      "tags": [
+        "Light meal"
+      ],
+      "photoQuery": [
+        [
+          "egg curry",
+          "indian egg curry"
+        ],
+        [
+          "egg curry",
+          "egg masala"
+        ]
+      ]
+    },
+    {
+      "id": "f25",
+      "name": "Mutton Rogan Josh",
+      "nameTa": "மட்டன் ரோகன் ஜோஷ்",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c3",
+      "icon": "🍖",
+      "price": 320,
+      "rating": 4.9,
+      "reviews": 84,
+      "prepMinutes": 55,
+      "diet": "non-veg",
+      "spice": "Hot",
+      "description": "Slow-braised mutton in a Kashmiri red-chilli and yoghurt gravy, simmered for hours until the meat falls off the bone.",
+      "descriptionTa": "காஷ்மீரி சிவப்பு மிளகாய் மற்றும் தயிர் கிரேவியில் பல மணி நேரம் மெதுவாக வேகவைத்த ஆட்டிறைச்சி.",
+      "tags": [
+        "Chef pick"
+      ],
+      "photoQuery": [
+        [
+          "rogan josh",
+          "mutton rogan josh"
+        ],
+        [
+          "rogan josh",
+          "roganjosh"
+        ]
+      ]
+    },
+    {
+      "id": "f26",
+      "name": "Dal Makhani",
+      "nameTa": "தால் மக்கனி",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c6",
+      "icon": "🥘",
+      "price": 190,
+      "rating": 4.8,
+      "reviews": 97,
+      "prepMinutes": 40,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Black lentils and kidney beans simmered overnight with butter and cream until velvety, finished with a smoky tempering.",
+      "descriptionTa": "கருப்பு உளுந்தும் ராஜ்மாவும் இரவு முழுவதும் வெண்ணெய், க்ரீமுடன் வெந்து, புகை மணம் கொண்ட தாளிப்புடன்.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "dal makhani",
+          "dal makhni"
+        ],
+        [
+          "makhani",
+          "makhni"
+        ]
+      ]
+    },
+    {
+      "id": "f27",
+      "name": "Vegetable Cutlet (2 pc)",
+      "nameTa": "காய்கறி கட்லெட் (2 துண்டு)",
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🥔",
+      "price": 70,
+      "rating": 4.4,
+      "reviews": 39,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Mashed potato and mixed vegetable patties, crumb-fried golden and served with mint and tamarind chutney.",
+      "descriptionTa": "பிசைந்த உருளைக்கிழங்கு மற்றும் கலவை காய்கறி கட்லெட்கள், புதினா-புளி சட்னியுடன்.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "vegetable cutlet",
+          "veg cutlet indian"
+        ],
+        [
+          "cutlet"
+        ]
+      ]
+    },
+    {
+      "id": "f28",
+      "name": "Crispy Bread Pakora",
+      "nameTa": "பிரெட் பக்கோடா",
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🍞",
+      "price": 60,
+      "rating": 4.3,
+      "reviews": 31,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Bread slices stuffed with a spiced potato filling, dipped in gram-flour batter and fried until crisp.",
+      "descriptionTa": "மசாலா உருளைக்கிழங்கு நிரப்பிய பிரெட், கடலை மாவில் தோய்த்து மொறுமொறுப்பாகப் பொரித்தது.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "bread pakora",
+          "bread pakoda"
+        ],
+        [
+          "bread pakora",
+          "bread pakoda",
+          "bread"
+        ]
+      ]
+    },
+    {
+      "id": "f29",
+      "name": "Besan Ladoo (4 pc)",
+      "nameTa": "பேசன் லட்டு (4 துண்டு)",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c6",
+      "icon": "🟡",
+      "price": 90,
+      "rating": 4.7,
+      "reviews": 52,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Roasted gram-flour ladoos slow-cooked in pure ghee with cardamom, rolled by hand in small batches.",
+      "descriptionTa": "தூய நெய்யில் ஏலக்காயுடன் வறுத்த கடலை மாவு லட்டு; சிறிய அளவில் கையால் உருட்டியது.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "besan ladoo",
+          "besan laddu"
+        ],
+        [
+          "besan",
+          "laddu",
+          "ladoo"
+        ]
+      ]
+    },
+    {
+      "id": "f30",
+      "name": "Crispy Jalebi",
+      "nameTa": "ஜாங்கிரி / ஜிலேபி",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c5",
+      "icon": "🍥",
+      "price": 70,
+      "rating": 4.6,
+      "reviews": 45,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Fermented batter piped into spirals and fried fresh to order, soaked in warm saffron sugar syrup.",
+      "descriptionTa": "புளித்த மாவை சுருளாகப் பிழிந்து பொரித்து, சூடான குங்குமப்பூ சர்க்கரைப் பாகில் ஊறவைத்தது.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "jalebi",
+          "jilebi"
+        ],
+        [
+          "jalebi",
+          "jilebi",
+          "jilapi"
+        ]
+      ]
+    },
+    {
+      "id": "f31",
+      "name": "South Indian Filter Coffee",
+      "nameTa": "ஃபில்டர் காபி",
+      "category": "drinks",
+      "meals": [
+        "drinks",
+        "breakfast"
+      ],
+      "chefId": "c1",
+      "icon": "☕",
+      "price": 30,
+      "rating": 4.8,
+      "reviews": 67,
+      "prepMinutes": 5,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Strong decoction brewed the traditional way and frothed with hot milk in a stainless steel tumbler and dabara.",
+      "descriptionTa": "பாரம்பரிய முறையில் வடிகட்டிய கெட்டி டிகாஷன், சூடான பாலுடன் டம்ளர்-டவராவில் நுரைக்கப் பரிமாறப்படுகிறது.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "filter coffee",
+          "south indian filter coffee"
+        ],
+        [
+          "filter coffee",
+          "filter kaapi",
+          "kaapi"
+        ]
+      ]
+    },
+    {
+      "id": "f32",
+      "name": "Fresh Lime Soda",
+      "nameTa": "எலுமிச்சை சோடா",
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c1",
+      "icon": "🍋",
+      "price": 35,
+      "rating": 4.5,
+      "reviews": 28,
+      "prepMinutes": 5,
+      "diet": "vegan",
+      "spice": "None",
+      "description": "Fresh lime juice topped with chilled soda, served sweet, salted or mixed, just the way you like it.",
+      "descriptionTa": "புதிய எலுமிச்சைச் சாறுடன் குளிர்ந்த சோடா — இனிப்பு, உப்பு அல்லது கலந்து, உங்கள் விருப்பப்படி.",
+      "tags": [],
+      "photoQuery": [
+        [
+          "fresh lime soda",
+          "nimbu soda",
+          "lemon soda"
+        ],
+        [
+          "lime",
+          "lemon",
+          "nimbu"
+        ]
+      ]
+    },
+    {
+      "id": "f33",
+      "name": "Chole Bhature",
+      "nameTa": "சோலே பதூரா",
+      "category": "brunch",
+      "meals": [
+        "brunch"
+      ],
+      "chefId": "c2",
+      "icon": "🫓",
+      "price": 140,
+      "rating": 4.7,
+      "reviews": 61,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Spiced chickpea curry served with fluffy deep-fried bhature, pickled onions and a wedge of lemon.",
+      "descriptionTa": "மசாலா கொண்டைக்கடலை கறியுடன் மொறுமொறுப்பான பதூரா, ஊறுகாய் வெங்காயம் மற்றும் எலுமிச்சையுடன்.",
+      "tags": [
+        "Weekend special"
+      ],
+      "photoQuery": [
+        [
+          "chole bhature",
+          "chana bhatura"
+        ],
+        [
+          "chole",
+          "bhature",
+          "bhatura"
+        ]
+      ]
+    },
+    {
+      "id": "f34",
+      "name": "Idli Sambar (4 pc)",
+      "nameTa": "இட்லி சாம்பார் (4 துண்டு)",
+      "category": "breakfast",
+      "meals": [
+        "breakfast",
+        "brunch"
+      ],
+      "chefId": "c1",
+      "icon": "🍥",
+      "price": 80,
+      "rating": 4.7,
+      "reviews": 73,
+      "prepMinutes": 15,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Steamed rice-and-lentil cakes served with hot sambar and coconut chutney, a South Indian everyday classic.",
+      "descriptionTa": "ஆவியில் வேகவைத்த அரிசி-உளுந்து இட்லி, சூடான சாம்பார் மற்றும் தேங்காய் சட்னியுடன் — தென்னிந்திய அன்றாடக் கிளாசிக்.",
+      "tags": [
+        "Light meal"
+      ],
+      "photoQuery": [
+        [
+          "idli sambar",
+          "idli"
+        ],
+        [
+          "idli",
+          "idly"
+        ]
+      ]
+    },
+    {
+      "id": "f35",
+      "name": "Ven Pongal with Vada",
+      "nameTa": "வெண் பொங்கல் வடையுடன்",
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c1",
+      "icon": "🥣",
+      "price": 90,
+      "rating": 4.7,
+      "reviews": 96,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Rice and moong dal cooked soft with ghee, pepper, cumin and cashews, served with a crisp medu vada, sambar and coconut chutney.",
+      "descriptionTa": "நெய், மிளகு, சீரகம், முந்திரியுடன் மென்மையாக வேகவைத்த அரிசி-பாசிப்பருப்பு பொங்கல்; மொறுமொறுப்பான மெது வடை, சாம்பார், தேங்காய் சட்னியுடன்.",
+      "tags": [
+        "Comfort food"
+      ],
+      "photoQuery": [
+        [
+          "ven pongal",
+          "pongal",
+          "sakkarai pongal"
+        ],
+        [
+          "pongal"
+        ]
+      ]
+    },
+    {
+      "id": "f36",
+      "name": "Rava Upma",
+      "nameTa": "ரவா உப்புமா",
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c1",
+      "icon": "🍲",
+      "price": 70,
+      "rating": 4.4,
+      "reviews": 58,
+      "prepMinutes": 15,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Roasted semolina cooked with mustard, curry leaves, green chilli, ginger and fresh vegetables, finished with a squeeze of lemon.",
+      "descriptionTa": "கடுகு, கறிவேப்பிலை, பச்சை மிளகாய், இஞ்சி, காய்கறிகளுடன் வறுத்த ரவையில் செய்த உப்புமா; எலுமிச்சைச் சாறுடன்.",
+      "tags": [
+        "Light meal"
+      ],
+      "photoQuery": [
+        [
+          "rava upma",
+          "upma",
+          "rava upma south indian"
+        ],
+        [
+          "upma",
+          "uppuma",
+          "upit"
+        ]
+      ]
+    },
+    {
+      "id": "f37",
+      "name": "Kuzhi Paniyaram (6 pc)",
+      "nameTa": "குழிப் பணியாரம் (6 துண்டு)",
+      "category": "breakfast",
+      "meals": [
+        "breakfast",
+        "snacks"
+      ],
+      "chefId": "c1",
+      "icon": "🧆",
+      "price": 80,
+      "rating": 4.7,
+      "reviews": 84,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Fermented idli batter with onion, curry leaves and green chilli, cooked in a cast-iron paniyaram pan until crisp outside and soft inside.",
+      "descriptionTa": "வெங்காயம், கறிவேப்பிலை, பச்சை மிளகாய் சேர்த்த இட்லி மாவை இரும்புக் குழிச்சட்டியில் வெளியே மொறுமொறுப்பாகவும் உள்ளே மென்மையாகவும் சுட்டது.",
+      "tags": [
+        "Regional special"
+      ],
+      "photoQuery": [
+        [
+          "kuzhi paniyaram",
+          "paniyaram",
+          "appe"
+        ],
+        [
+          "paniyaram",
+          "appe",
+          "paddu"
+        ]
+      ]
+    },
+    {
+      "id": "f38",
+      "name": "Pesarattu with Ginger Chutney",
+      "nameTa": "பெசரட்டு இஞ்சி சட்னியுடன்",
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c9",
+      "icon": "🥞",
+      "price": 90,
+      "rating": 4.6,
+      "reviews": 52,
+      "prepMinutes": 20,
+      "diet": "vegan",
+      "spice": "Medium",
+      "description": "A protein-rich Andhra crepe of ground green gram and rice, crisped on the tawa and served with spicy ginger chutney.",
+      "descriptionTa": "பச்சைப்பயறு, அரிசி அரைத்து தவாவில் மொறுமொறுப்பாகச் சுட்ட புரதம் நிறைந்த ஆந்திரா தோசை; காரமான இஞ்சி சட்னியுடன்.",
+      "tags": [
+        "Protein-rich",
+        "Regional special"
+      ],
+      "photoQuery": [
+        [
+          "pesarattu",
+          "moong dal dosa",
+          "green gram dosa"
+        ],
+        [
+          "pesarattu",
+          "pesarattu",
+          "moong"
+        ]
+      ]
+    },
+    {
+      "id": "f39",
+      "name": "Gujarati Thepla with Curd",
+      "nameTa": "குஜராத்தி தேப்லா தயிருடன்",
+      "category": "breakfast",
+      "meals": [
+        "breakfast",
+        "brunch"
+      ],
+      "chefId": "c8",
+      "icon": "🫓",
+      "price": 80,
+      "rating": 4.6,
+      "reviews": 63,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Soft whole-wheat flatbreads flavoured with fenugreek leaves and turmeric, served with fresh curd and a spoon of mango pickle.",
+      "descriptionTa": "வெந்தயக்கீரை, மஞ்சள் சேர்த்த மென்மையான கோதுமை தேப்லா; புதிய தயிர் மற்றும் மாங்காய் ஊறுகாயுடன்.",
+      "tags": [
+        "Light meal"
+      ],
+      "photoQuery": [
+        [
+          "thepla",
+          "methi thepla",
+          "gujarati thepla"
+        ],
+        [
+          "thepla"
+        ]
+      ]
+    },
+    {
+      "id": "f40",
+      "name": "Besan Chilla (2 pc)",
+      "nameTa": "பேசன் சில்லா (2 துண்டு)",
+      "category": "breakfast",
+      "meals": [
+        "breakfast"
+      ],
+      "chefId": "c6",
+      "icon": "🥞",
+      "price": 70,
+      "rating": 4.5,
+      "reviews": 47,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Savoury gram-flour pancakes with onion, tomato, coriander and green chilli, served with mint chutney.",
+      "descriptionTa": "வெங்காயம், தக்காளி, கொத்தமல்லி, பச்சை மிளகாய் சேர்த்த கடலை மாவு அடை; புதினா சட்னியுடன்.",
+      "tags": [
+        "Protein-rich"
+      ],
+      "photoQuery": [
+        [
+          "besan chilla",
+          "chilla",
+          "cheela"
+        ],
+        [
+          "chilla",
+          "cheela",
+          "besan"
+        ]
+      ]
+    },
+    {
+      "id": "f41",
+      "name": "Sambar Rice with Papad",
+      "nameTa": "சாம்பார் சாதம் அப்பளத்துடன்",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c1",
+      "icon": "🍛",
+      "price": 110,
+      "rating": 4.6,
+      "reviews": 71,
+      "prepMinutes": 25,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Rice and toor dal cooked together with tamarind, vegetables and fresh sambar powder, finished with ghee and served with a crisp papad.",
+      "descriptionTa": "புளி, காய்கறிகள், புதிய சாம்பார் பொடியுடன் அரிசியும் துவரம்பருப்பும் சேர்த்து வேகவைத்து, நெய் விட்டு, மொறுமொறுப்பான அப்பளத்துடன்.",
+      "tags": [
+        "Comfort food"
+      ],
+      "photoQuery": [
+        [
+          "sambar rice",
+          "sambar sadam",
+          "sambar"
+        ],
+        [
+          "sambar",
+          "sambhar"
+        ]
+      ]
+    },
+    {
+      "id": "f42",
+      "name": "Curd Rice with Pickle",
+      "nameTa": "தயிர் சாதம் ஊறுகாயுடன்",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c1",
+      "icon": "🍚",
+      "price": 80,
+      "rating": 4.7,
+      "reviews": 90,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Soft rice mashed with fresh curd, tempered with mustard, curry leaves and ginger, served chilled with a spoon of lemon pickle.",
+      "descriptionTa": "புதிய தயிருடன் பிசைந்த மென்மையான சாதம்; கடுகு, கறிவேப்பிலை, இஞ்சி தாளித்து, குளிர்ச்சியாக எலுமிச்சை ஊறுகாயுடன்.",
+      "tags": [
+        "Cooling",
+        "Comfort food"
+      ],
+      "photoQuery": [
+        [
+          "curd rice",
+          "thayir sadam",
+          "yogurt rice"
+        ],
+        [
+          "curd rice",
+          "thayir",
+          "yogurt rice",
+          "dahi"
+        ]
+      ]
+    },
+    {
+      "id": "f43",
+      "name": "Vegetable Pulao with Raita",
+      "nameTa": "காய்கறி புலாவ் ரைத்தாவுடன்",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c6",
+      "icon": "🍚",
+      "price": 130,
+      "rating": 4.5,
+      "reviews": 49,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Fragrant basmati cooked with peas, carrots, beans and whole spices, served with cooling cucumber raita.",
+      "descriptionTa": "பட்டாணி, கேரட், பீன்ஸ், முழு மசாலாக்களுடன் வேகவைத்த மணமான பாஸ்மதி; குளிர்ந்த வெள்ளரி ரைத்தாவுடன்.",
+      "tags": [
+        "Wholesome"
+      ],
+      "photoQuery": [
+        [
+          "vegetable pulao",
+          "veg pulao",
+          "pulao"
+        ],
+        [
+          "pulao",
+          "pilau",
+          "pilaf"
+        ]
+      ]
+    },
+    {
+      "id": "f44",
+      "name": "Kerala Fish Curry Meal",
+      "nameTa": "கேரள மீன் கறி சாப்பாடு",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c7",
+      "icon": "🐟",
+      "price": 240,
+      "rating": 4.8,
+      "reviews": 68,
+      "prepMinutes": 40,
+      "diet": "non-veg",
+      "spice": "Hot",
+      "description": "Fish simmered in a tangy kodampuli and coconut gravy, served with red rice, thoran and a crisp papad.",
+      "descriptionTa": "புளிப்பான குடம்புளி-தேங்காய் கிரேவியில் வேகவைத்த மீன்; சிவப்பு அரிசி சாதம், தோரன், அப்பளத்துடன்.",
+      "tags": [
+        "Regional special",
+        "Chef pick"
+      ],
+      "photoQuery": [
+        [
+          "kerala fish curry",
+          "meen curry",
+          "kerala meen curry"
+        ],
+        [
+          "fish curry",
+          "meen",
+          "kerala"
+        ]
+      ]
+    },
+    {
+      "id": "f45",
+      "name": "Gujarati Kadhi Khichdi",
+      "nameTa": "குஜராத்தி கடி கிச்சடி",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c8",
+      "icon": "🥣",
+      "price": 120,
+      "rating": 4.6,
+      "reviews": 55,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Soft rice and moong dal khichdi topped with ghee, served with sweet-tangy yoghurt kadhi and roasted papad.",
+      "descriptionTa": "நெய் விட்ட மென்மையான அரிசி-பாசிப்பருப்பு கிச்சடி; இனிப்பு-புளிப்பு தயிர் கடி மற்றும் சுட்ட அப்பளத்துடன்.",
+      "tags": [
+        "Comfort food",
+        "Wholesome"
+      ],
+      "photoQuery": [
+        [
+          "kadhi khichdi",
+          "gujarati kadhi",
+          "khichdi"
+        ],
+        [
+          "khichdi",
+          "kadhi",
+          "khichri"
+        ]
+      ]
+    },
+    {
+      "id": "f46",
+      "name": "Bisi Bele Bath",
+      "nameTa": "பிசி பேளே பாத்",
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c1",
+      "icon": "🍲",
+      "price": 110,
+      "rating": 4.7,
+      "reviews": 77,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "A Karnataka classic of rice, lentils and vegetables slow-cooked with a freshly ground masala, finished with ghee and boondi.",
+      "descriptionTa": "அரிசி, பருப்பு, காய்கறிகளை புதிதாக அரைத்த மசாலாவுடன் மெதுவாக வேகவைத்து, நெய் மற்றும் பூந்தியுடன் பரிமாறும் கர்நாடகக் கிளாசிக்.",
+      "tags": [
+        "Regional special"
+      ],
+      "photoQuery": [
+        [
+          "bisi bele bath",
+          "bisibelebath",
+          "bisi bele bhath"
+        ],
+        [
+          "bisi bele",
+          "bisibele"
+        ]
+      ]
+    },
+    {
+      "id": "f47",
+      "name": "Kadai Paneer",
+      "nameTa": "கடாய் பனீர்",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c2",
+      "icon": "🧀",
+      "price": 210,
+      "rating": 4.7,
+      "reviews": 88,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Paneer and capsicum tossed in a freshly ground kadai masala of coriander seed and dried red chilli with onion and tomato.",
+      "descriptionTa": "புதிதாக அரைத்த மல்லி-காய்ந்த மிளகாய் கடாய் மசாலாவில் வெங்காயம், தக்காளியுடன் வதக்கிய பனீர் மற்றும் குடைமிளகாய்.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "kadai paneer",
+          "karahi paneer",
+          "kadhai paneer"
+        ],
+        [
+          "kadai",
+          "karahi",
+          "kadhai"
+        ]
+      ]
+    },
+    {
+      "id": "f48",
+      "name": "Malabar Parotta with Veg Kurma",
+      "nameTa": "மலபார் பரோட்டா காய்கறி குருமாவுடன்",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c7",
+      "icon": "🫓",
+      "price": 120,
+      "rating": 4.7,
+      "reviews": 102,
+      "prepMinutes": 25,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Two flaky layered parottas served with a mild coconut vegetable kurma.",
+      "descriptionTa": "அடுக்கடுக்கான இரண்டு மெல்லிய பரோட்டாக்கள்; மென்மையான தேங்காய் காய்கறி குருமாவுடன்.",
+      "tags": [
+        "Regional special",
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "malabar parotta",
+          "kerala parotta",
+          "parotta"
+        ],
+        [
+          "parotta",
+          "paratha",
+          "porotta"
+        ]
+      ]
+    },
+    {
+      "id": "f49",
+      "name": "Baingan Bharta with Roti",
+      "nameTa": "பைங்கன் பர்த்தா ரொட்டியுடன்",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c2",
+      "icon": "🍆",
+      "price": 150,
+      "rating": 4.5,
+      "reviews": 44,
+      "prepMinutes": 35,
+      "diet": "vegan",
+      "spice": "Medium",
+      "description": "Brinjal roasted over open flame, mashed with onion, tomato and green chilli, served with two phulkas.",
+      "descriptionTa": "திறந்த தீயில் சுட்ட கத்திரிக்காயை வெங்காயம், தக்காளி, பச்சை மிளகாயுடன் மசித்தது; இரண்டு புல்காக்களுடன்.",
+      "tags": [
+        "Seasonal"
+      ],
+      "photoQuery": [
+        [
+          "baingan bharta",
+          "baigan bharta",
+          "brinjal bharta"
+        ],
+        [
+          "baingan",
+          "baigan",
+          "bharta",
+          "eggplant"
+        ]
+      ]
+    },
+    {
+      "id": "f50",
+      "name": "Chicken Korma",
+      "nameTa": "சிக்கன் கோர்மா",
+      "category": "dinner",
+      "meals": [
+        "dinner"
+      ],
+      "chefId": "c3",
+      "icon": "🍗",
+      "price": 250,
+      "rating": 4.8,
+      "reviews": 79,
+      "prepMinutes": 45,
+      "diet": "non-veg",
+      "spice": "Mild",
+      "description": "Chicken slow-cooked in a Mughlai gravy of yoghurt, fried onion, cashew and whole spices, finished with kewra.",
+      "descriptionTa": "தயிர், பொரித்த வெங்காயம், முந்திரி, முழு மசாலாக்களுடன் மெதுவாக வேகவைத்த முகலாய் சிக்கன் கிரேவி; கேவ்ரா மணத்துடன்.",
+      "tags": [
+        "Chef pick"
+      ],
+      "photoQuery": [
+        [
+          "chicken korma",
+          "mughlai chicken korma"
+        ],
+        [
+          "korma"
+        ]
+      ]
+    },
+    {
+      "id": "f51",
+      "name": "Medu Vada (2 pc)",
+      "nameTa": "மெது வடை (2 துண்டு)",
+      "category": "snacks",
+      "meals": [
+        "snacks",
+        "breakfast"
+      ],
+      "chefId": "c1",
+      "icon": "🍩",
+      "price": 60,
+      "rating": 4.6,
+      "reviews": 112,
+      "prepMinutes": 15,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Crisp-edged, fluffy urad dal doughnuts with pepper and curry leaves, served with sambar and coconut chutney.",
+      "descriptionTa": "மிளகு, கறிவேப்பிலை சேர்த்த வெளியே மொறுமொறுப்பான உள்ளே பஞ்சுபோன்ற உளுந்து வடை; சாம்பார், தேங்காய் சட்னியுடன்.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "medu vada",
+          "ulundu vadai",
+          "medu vadai"
+        ],
+        [
+          "vada",
+          "vadai",
+          "wada"
+        ]
+      ]
+    },
+    {
+      "id": "f52",
+      "name": "Mirchi Bajji (4 pc)",
+      "nameTa": "மிளகாய் பஜ்ஜி (4 துண்டு)",
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c1",
+      "icon": "🌶️",
+      "price": 60,
+      "rating": 4.4,
+      "reviews": 38,
+      "prepMinutes": 15,
+      "diet": "vegan",
+      "spice": "Hot",
+      "description": "Long green chillies slit, stuffed with tamarind-spice paste, dipped in gram-flour batter and fried golden.",
+      "descriptionTa": "புளி-மசாலா விழுது நிரப்பிய நீண்ட பச்சை மிளகாயை கடலை மாவில் தோய்த்து பொன்னிறமாகப் பொரித்தது.",
+      "tags": [
+        "Street food"
+      ],
+      "photoQuery": [
+        [
+          "mirchi bajji",
+          "milagai bajji",
+          "chilli bajji"
+        ],
+        [
+          "bajji",
+          "bhajji",
+          "mirchi",
+          "chilli"
+        ]
+      ]
+    },
+    {
+      "id": "f53",
+      "name": "Pav Bhaji",
+      "nameTa": "பாவ் பாஜி",
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🍞",
+      "price": 110,
+      "rating": 4.8,
+      "reviews": 134,
+      "prepMinutes": 25,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Mashed spiced vegetables cooked on a tawa with butter, served with two butter-toasted pav, onion and lemon.",
+      "descriptionTa": "தவாவில் வெண்ணெயுடன் வதக்கிய மசித்த மசாலா காய்கறிகள்; வெண்ணெயில் வாட்டிய இரண்டு பாவ், வெங்காயம், எலுமிச்சையுடன்.",
+      "tags": [
+        "Street food",
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "pav bhaji",
+          "pavbhaji"
+        ],
+        [
+          "pav bhaji",
+          "pavbhaji",
+          "bhaji"
+        ]
+      ]
+    },
+    {
+      "id": "f54",
+      "name": "Vada Pav (2 pc)",
+      "nameTa": "வடா பாவ் (2 துண்டு)",
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🍔",
+      "price": 60,
+      "rating": 4.6,
+      "reviews": 118,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Mumbai's favourite: a spiced potato fritter in a soft pav with garlic chutney and fried green chilli.",
+      "descriptionTa": "மும்பையின் பிரியமான உணவு: மசாலா உருளைக்கிழங்கு வடையை மென்மையான பாவில் வைத்து பூண்டு சட்னி, பொரித்த பச்சை மிளகாயுடன்.",
+      "tags": [
+        "Street food"
+      ],
+      "photoQuery": [
+        [
+          "vada pav",
+          "wada pav",
+          "vadapav"
+        ],
+        [
+          "vada pav",
+          "wada pav",
+          "vadapav"
+        ]
+      ]
+    },
+    {
+      "id": "f55",
+      "name": "Khaman Dhokla (6 pc)",
+      "nameTa": "கமன் தோக்ளா (6 துண்டு)",
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c8",
+      "icon": "🟨",
+      "price": 70,
+      "rating": 4.7,
+      "reviews": 92,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Spongy steamed gram-flour cakes tempered with mustard seeds and curry leaves, served with green chutney.",
+      "descriptionTa": "கடுகு, கறிவேப்பிலை தாளித்த பஞ்சுபோன்ற ஆவியில் வேகவைத்த கடலை மாவு கேக்; பச்சை சட்னியுடன்.",
+      "tags": [
+        "Light meal"
+      ],
+      "photoQuery": [
+        [
+          "khaman dhokla",
+          "dhokla",
+          "gujarati dhokla"
+        ],
+        [
+          "dhokla"
+        ]
+      ]
+    },
+    {
+      "id": "f56",
+      "name": "Masala Sundal",
+      "nameTa": "மசாலா சுண்டல்",
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c1",
+      "icon": "🥜",
+      "price": 50,
+      "rating": 4.5,
+      "reviews": 66,
+      "prepMinutes": 15,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Boiled chickpeas tempered with mustard, curry leaves, green chilli and fresh grated coconut — a Marina Beach classic.",
+      "descriptionTa": "வேகவைத்த கொண்டைக்கடலையை கடுகு, கறிவேப்பிலை, பச்சை மிளகாய், துருவிய தேங்காயுடன் தாளித்தது — மெரினா கடற்கரை கிளாசிக்.",
+      "tags": [
+        "Street food",
+        "Protein-rich"
+      ],
+      "photoQuery": [
+        [
+          "sundal",
+          "chickpea sundal",
+          "chana sundal"
+        ],
+        [
+          "sundal",
+          "chickpea",
+          "chana"
+        ]
+      ]
+    },
+    {
+      "id": "f57",
+      "name": "Paneer Tikka (6 pc)",
+      "nameTa": "பனீர் டிக்கா (6 துண்டு)",
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c2",
+      "icon": "🍢",
+      "price": 180,
+      "rating": 4.8,
+      "reviews": 105,
+      "prepMinutes": 25,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Paneer cubes marinated in hung curd and spices, char-grilled with onion and capsicum, served with mint chutney.",
+      "descriptionTa": "தொங்கவிட்ட தயிர், மசாலாவில் ஊறிய பனீர் துண்டுகளை வெங்காயம், குடைமிளகாயுடன் தீயில் வாட்டி, புதினா சட்னியுடன்.",
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "paneer tikka",
+          "paneer tikka grilled"
+        ],
+        [
+          "paneer tikka",
+          "tikka"
+        ]
+      ]
+    },
+    {
+      "id": "f58",
+      "name": "Mysore Pak (4 pc)",
+      "nameTa": "மைசூர் பாக் (4 துண்டு)",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c1",
+      "icon": "🟧",
+      "price": 100,
+      "rating": 4.8,
+      "reviews": 99,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Gram flour, pure ghee and sugar cooked to a melt-in-the-mouth, porous fudge.",
+      "descriptionTa": "கடலை மாவு, தூய நெய், சர்க்கரை சேர்த்து வாயில் கரையும் துளைகள் கொண்ட இனிப்பாகச் செய்தது.",
+      "tags": [
+        "Bestseller",
+        "Festive"
+      ],
+      "photoQuery": [
+        [
+          "mysore pak",
+          "mysore paak"
+        ],
+        [
+          "mysore pak",
+          "mysore paak"
+        ]
+      ]
+    },
+    {
+      "id": "f59",
+      "name": "Semiya Payasam",
+      "nameTa": "சேமியா பாயசம்",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c1",
+      "icon": "🍮",
+      "price": 80,
+      "rating": 4.7,
+      "reviews": 83,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Roasted vermicelli simmered in sweetened milk with cardamom, cashews and raisins fried in ghee.",
+      "descriptionTa": "வறுத்த சேமியாவை இனிப்புப் பாலில் ஏலக்காயுடன் வேகவைத்து, நெய்யில் வறுத்த முந்திரி-திராட்சை சேர்த்தது.",
+      "tags": [
+        "Festive"
+      ],
+      "photoQuery": [
+        [
+          "semiya payasam",
+          "vermicelli kheer",
+          "payasam"
+        ],
+        [
+          "payasam",
+          "payasa",
+          "vermicelli",
+          "kheer"
+        ]
+      ]
+    },
+    {
+      "id": "f60",
+      "name": "Rasgulla (4 pc)",
+      "nameTa": "ரசகுல்லா (4 துண்டு)",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c4",
+      "icon": "⚪",
+      "price": 90,
+      "rating": 4.7,
+      "reviews": 87,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Soft, spongy balls of fresh chhena simmered in light sugar syrup — a Bengali classic.",
+      "descriptionTa": "புதிய சென்னாவில் செய்த மென்மையான பஞ்சுபோன்ற உருண்டைகள் லேசான சர்க்கரைப் பாகில் — வங்காளக் கிளாசிக்.",
+      "tags": [
+        "Regional special"
+      ],
+      "photoQuery": [
+        [
+          "rasgulla",
+          "rosogolla",
+          "rasagulla"
+        ],
+        [
+          "rasgulla",
+          "rosogolla",
+          "rasagulla",
+          "roshogolla"
+        ]
+      ]
+    },
+    {
+      "id": "f61",
+      "name": "Sandesh (4 pc)",
+      "nameTa": "சந்தேஷ் (4 துண்டு)",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c4",
+      "icon": "🍬",
+      "price": 110,
+      "rating": 4.6,
+      "reviews": 51,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Delicate Bengali sweet of fresh chhena and sugar, lightly flavoured with cardamom and set in small moulds.",
+      "descriptionTa": "புதிய சென்னா, சர்க்கரையுடன் ஏலக்காய் மணம் சேர்த்து சிறு அச்சுகளில் செய்த மென்மையான வங்காள இனிப்பு.",
+      "tags": [
+        "Chef pick"
+      ],
+      "photoQuery": [
+        [
+          "sandesh",
+          "bengali sandesh"
+        ],
+        [
+          "sandesh",
+          "sondesh"
+        ]
+      ]
+    },
+    {
+      "id": "f62",
+      "name": "Rice Kheer",
+      "nameTa": "அரிசி கீர்",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c2",
+      "icon": "🥛",
+      "price": 80,
+      "rating": 4.6,
+      "reviews": 61,
+      "prepMinutes": 25,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Basmati rice slow-cooked in full-cream milk with cardamom and saffron, garnished with almonds and pistachio.",
+      "descriptionTa": "முழு கொழுப்புப் பாலில் ஏலக்காய், குங்குமப்பூவுடன் மெதுவாக வேகவைத்த பாஸ்மதி கீர்; பாதாம், பிஸ்தா அலங்காரத்துடன்.",
+      "tags": [
+        "Comfort food"
+      ],
+      "photoQuery": [
+        [
+          "rice kheer",
+          "kheer",
+          "chawal ki kheer"
+        ],
+        [
+          "kheer",
+          "payasam",
+          "rice pudding"
+        ]
+      ]
+    },
+    {
+      "id": "f63",
+      "name": "Rava Kesari",
+      "nameTa": "ரவா கேசரி",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c1",
+      "icon": "🟠",
+      "price": 60,
+      "rating": 4.5,
+      "reviews": 69,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Semolina roasted in ghee and cooked with sugar, saffron and cardamom, topped with fried cashews and raisins.",
+      "descriptionTa": "நெய்யில் வறுத்த ரவையை சர்க்கரை, குங்குமப்பூ, ஏலக்காயுடன் வேகவைத்து, வறுத்த முந்திரி-திராட்சை சேர்த்தது.",
+      "tags": [
+        "Festive"
+      ],
+      "photoQuery": [
+        [
+          "rava kesari",
+          "kesari bath",
+          "sooji halwa"
+        ],
+        [
+          "kesari",
+          "sheera",
+          "halwa",
+          "semolina"
+        ]
+      ]
+    },
+    {
+      "id": "f64",
+      "name": "Mishti Doi",
+      "nameTa": "மிஷ்டி தோய்",
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c4",
+      "icon": "🍨",
+      "price": 70,
+      "rating": 4.7,
+      "reviews": 73,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Thick, caramel-sweet Bengali yoghurt set overnight in a clay pot.",
+      "descriptionTa": "இரவு முழுவதும் மண் பாத்திரத்தில் உறைய வைத்த கெட்டியான கேரமல் இனிப்பு வங்காளத் தயிர்.",
+      "tags": [
+        "Cooling",
+        "Regional special"
+      ],
+      "photoQuery": [
+        [
+          "mishti doi",
+          "mishti dahi",
+          "sweet yogurt bengali"
+        ],
+        [
+          "mishti doi",
+          "mishti dahi",
+          "misti doi"
+        ]
+      ]
+    },
+    {
+      "id": "f65",
+      "name": "Jigarthanda",
+      "nameTa": "ஜிகர்தண்டா",
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c1",
+      "icon": "🥤",
+      "price": 90,
+      "rating": 4.8,
+      "reviews": 121,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Madurai's famous cooler of chilled milk, almond gum, nannari syrup and ice cream.",
+      "descriptionTa": "மதுரையின் புகழ்பெற்ற குளிர்பானம்: குளிர்ந்த பால், பாதாம் பிசின், நன்னாரி சிரப், ஐஸ்கிரீம்.",
+      "tags": [
+        "Regional special",
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "jigarthanda",
+          "jigarthanda madurai",
+          "jigarthanda drink"
+        ],
+        [
+          "jigarthanda",
+          "jigarthunda"
+        ]
+      ]
+    },
+    {
+      "id": "f66",
+      "name": "Badam Milk",
+      "nameTa": "பாதாம் பால்",
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c1",
+      "icon": "🥛",
+      "price": 60,
+      "rating": 4.7,
+      "reviews": 90,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Warm or chilled milk blended with soaked almonds, saffron and cardamom.",
+      "descriptionTa": "ஊறவைத்த பாதாம், குங்குமப்பூ, ஏலக்காய் சேர்த்து அரைத்த சூடான அல்லது குளிர்ந்த பால்.",
+      "tags": [
+        "Comfort food"
+      ],
+      "photoQuery": [
+        [
+          "badam milk",
+          "badam doodh",
+          "almond milk indian"
+        ],
+        [
+          "badam",
+          "almond"
+        ]
+      ]
+    },
+    {
+      "id": "f67",
+      "name": "Sweet Lassi",
+      "nameTa": "இனிப்பு லஸ்ஸி",
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c2",
+      "icon": "🥛",
+      "price": 50,
+      "rating": 4.7,
+      "reviews": 76,
+      "prepMinutes": 5,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Thick Punjabi lassi churned from fresh curd, sweetened and topped with a layer of malai.",
+      "descriptionTa": "புதிய தயிரைக் கடைந்து இனிப்பு சேர்த்து மேலே மலாய் அடுக்குடன் பரிமாறப்படும் கெட்டியான பஞ்சாபி லஸ்ஸி.",
+      "tags": [
+        "Cooling"
+      ],
+      "photoQuery": [
+        [
+          "sweet lassi",
+          "punjabi lassi",
+          "lassi glass"
+        ],
+        [
+          "lassi"
+        ]
+      ]
+    },
+    {
+      "id": "f68",
+      "name": "Nannari Sarbath",
+      "nameTa": "நன்னாரி சர்பத்",
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c1",
+      "icon": "🍹",
+      "price": 40,
+      "rating": 4.5,
+      "reviews": 47,
+      "prepMinutes": 5,
+      "diet": "vegan",
+      "spice": "None",
+      "description": "A cooling summer drink of nannari root syrup, fresh lemon and chilled water.",
+      "descriptionTa": "நன்னாரி வேர் சிரப், புதிய எலுமிச்சை, குளிர்ந்த நீர் சேர்த்த கோடைகாலக் குளிர்பானம்.",
+      "tags": [
+        "Cooling",
+        "Regional special"
+      ],
+      "photoQuery": [
+        [
+          "nannari sarbath",
+          "nannari sharbat",
+          "nannari syrup drink"
+        ],
+        [
+          "nannari",
+          "sarbath",
+          "sharbat"
+        ]
+      ]
+    },
+    {
+      "id": "f69",
+      "name": "Rose Milk",
+      "nameTa": "ரோஸ் மில்க்",
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c1",
+      "icon": "🌹",
+      "price": 50,
+      "rating": 4.6,
+      "reviews": 80,
+      "prepMinutes": 5,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Chilled milk with rose syrup, topped with basil seeds.",
+      "descriptionTa": "ரோஜா சிரப் சேர்த்த குளிர்ந்த பால்; மேலே சப்ஜா விதைகளுடன்.",
+      "tags": [
+        "Cooling"
+      ],
+      "photoQuery": [
+        [
+          "rose milk",
+          "rose milk drink",
+          "rose syrup milk"
+        ],
+        [
+          "rose milk",
+          "rose"
+        ]
+      ]
+    },
+    {
+      "id": "f70",
+      "name": "Thandai",
+      "nameTa": "தண்டாய்",
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c6",
+      "icon": "🥛",
+      "price": 70,
+      "rating": 4.6,
+      "reviews": 43,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "A festive cold milk drink with almonds, fennel, cardamom, pepper and rose petals.",
+      "descriptionTa": "பாதாம், சோம்பு, ஏலக்காய், மிளகு, ரோஜா இதழ்கள் சேர்த்த பண்டிகைக்காலக் குளிர்ந்த பால் பானம்.",
+      "tags": [
+        "Festive",
+        "Seasonal"
+      ],
+      "photoQuery": [
+        [
+          "thandai",
+          "thandai drink",
+          "holi thandai"
+        ],
+        [
+          "thandai"
+        ]
+      ]
+    },
+    {
+      "id": "f71",
+      "name": "Aam Panna",
+      "nameTa": "ஆம் பன்னா",
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c5",
+      "icon": "🍋",
+      "price": 45,
+      "rating": 4.5,
+      "reviews": 39,
+      "prepMinutes": 10,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "A tangy raw-mango cooler with roasted cumin, mint and black salt.",
+      "descriptionTa": "வறுத்த சீரகம், புதினா, கருப்பு உப்பு சேர்த்த புளிப்பான மாங்காய்க் குளிர்பானம்.",
+      "tags": [
+        "Cooling",
+        "Seasonal"
+      ],
+      "photoQuery": [
+        [
+          "aam panna",
+          "aam panna drink",
+          "raw mango drink"
+        ],
+        [
+          "panna",
+          "panha",
+          "raw mango"
+        ]
+      ]
+    },
+    {
+      "id": "f72",
+      "name": "Paneer Kathi Roll",
+      "nameTa": "பனீர் கதி ரோல்",
+      "category": "brunch",
+      "meals": [
+        "brunch"
+      ],
+      "chefId": "c2",
+      "icon": "🌯",
+      "price": 130,
+      "rating": 4.6,
+      "reviews": 72,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Spiced paneer, onion and mint chutney rolled in a flaky egg-free paratha.",
+      "descriptionTa": "மசாலா பனீர், வெங்காயம், புதினா சட்னியை மெல்லிய பராத்தாவில் சுருட்டியது.",
+      "tags": [
+        "Street food"
+      ],
+      "photoQuery": [
+        [
+          "paneer kathi roll",
+          "kathi roll",
+          "paneer roll"
+        ],
+        [
+          "kathi roll",
+          "paneer roll",
+          "frankie",
+          "roll"
+        ]
+      ]
+    },
+    {
+      "id": "f73",
+      "name": "Misal Pav",
+      "nameTa": "மிசல் பாவ்",
+      "category": "brunch",
+      "meals": [
+        "brunch"
+      ],
+      "chefId": "c5",
+      "icon": "🍛",
+      "price": 110,
+      "rating": 4.7,
+      "reviews": 85,
+      "prepMinutes": 25,
+      "diet": "vegan",
+      "spice": "Hot",
+      "description": "Spicy sprouted-moth curry topped with farsan, onion and coriander, served with buttered pav.",
+      "descriptionTa": "முளைகட்டிய மொத்தைப் பயறு காரக் கறியின் மேல் ஃபர்சான், வெங்காயம், கொத்தமல்லி; வெண்ணெய் பாவுடன்.",
+      "tags": [
+        "Regional special"
+      ],
+      "photoQuery": [
+        [
+          "misal pav",
+          "kolhapuri misal",
+          "misal"
+        ],
+        [
+          "misal"
+        ]
+      ]
+    },
+    {
+      "id": "f74",
+      "name": "Appam with Vegetable Stew",
+      "nameTa": "ஆப்பம் காய்கறி ஸ்டூவுடன்",
+      "category": "brunch",
+      "meals": [
+        "brunch"
+      ],
+      "chefId": "c7",
+      "icon": "🥞",
+      "price": 130,
+      "rating": 4.8,
+      "reviews": 98,
+      "prepMinutes": 25,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Lacy-edged fermented rice appams served with a gentle coconut-milk vegetable stew.",
+      "descriptionTa": "ஓரம் மொறுமொறுப்பான புளித்த அரிசி ஆப்பம்; மென்மையான தேங்காய்ப் பால் காய்கறி ஸ்டூவுடன்.",
+      "tags": [
+        "Regional special",
+        "Chef pick"
+      ],
+      "photoQuery": [
+        [
+          "appam stew",
+          "kerala appam stew",
+          "appam"
+        ],
+        [
+          "appam",
+          "stew"
+        ]
+      ]
+    },
+    {
+      "id": "f75",
+      "name": "Puri Bhaji",
+      "nameTa": "பூரி பாஜி",
+      "category": "brunch",
+      "meals": [
+        "brunch"
+      ],
+      "chefId": "c6",
+      "icon": "🫓",
+      "price": 100,
+      "rating": 4.6,
+      "reviews": 66,
+      "prepMinutes": 25,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Puffed golden puris served with a lightly spiced potato bhaji and pickled green chilli.",
+      "descriptionTa": "பொன்னிறமாக உப்பிய பூரிகள்; லேசான மசாலா உருளைக்கிழங்கு பாஜி மற்றும் ஊறுகாய் மிளகாயுடன்.",
+      "tags": [
+        "Weekend special"
+      ],
+      "photoQuery": [
+        [
+          "puri bhaji",
+          "poori bhaji",
+          "puri aloo"
+        ],
+        [
+          "puri",
+          "poori"
+        ]
+      ]
+    },
+    {
+      "id": "k01",
+      "name": "Sweet Rose Lassi",
+      "nameTa": null,
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c2",
+      "icon": "🍽️",
+      "price": 55,
+      "rating": 4.7,
+      "reviews": 42,
+      "prepMinutes": 5,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Chilled home-churned yoghurt blended with fragrant damask rose syrup, cardamom and crushed ice.",
+      "descriptionTa": null,
+      "tags": [
+        "Cooling"
+      ],
+      "photoQuery": [
+        [
+          "sweet rose lassi"
+        ],
+        [
+          "drinks"
+        ]
+      ]
+    },
+    {
+      "id": "k02",
+      "name": "Konkan Kokum Sharbat",
+      "nameTa": null,
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 40,
+      "rating": 4.6,
+      "reviews": 33,
+      "prepMinutes": 5,
+      "diet": "vegan",
+      "spice": "None",
+      "description": "Refreshing indigenous Konkan coastal drink brewed from wild kokum fruit, roasted cumin, rock salt and fresh mint.",
+      "descriptionTa": null,
+      "tags": [
+        "Digestive"
+      ],
+      "photoQuery": [
+        [
+          "konkan kokum sharbat"
+        ],
+        [
+          "drinks"
+        ]
+      ]
+    },
+    {
+      "id": "k03",
+      "name": "Spiced Jaljeera with Boondi",
+      "nameTa": null,
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 35,
+      "rating": 4.6,
+      "reviews": 36,
+      "prepMinutes": 5,
+      "diet": "vegan",
+      "spice": "Mild",
+      "description": "Digestive summer cooler of roasted cumin, fresh mint, coriander, dried ginger and black salt topped with crisp boondi.",
+      "descriptionTa": null,
+      "tags": [
+        "Refreshing"
+      ],
+      "photoQuery": [
+        [
+          "spiced jaljeera with boondi"
+        ],
+        [
+          "drinks"
+        ]
+      ]
+    },
+    {
+      "id": "k04",
+      "name": "Kesar Badam Milk",
+      "nameTa": null,
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 65,
+      "rating": 4.9,
+      "reviews": 58,
+      "prepMinutes": 5,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Slow-simmered whole milk infused with Kashmiri saffron, crushed almonds, green cardamom and pistachios.",
+      "descriptionTa": null,
+      "tags": [
+        "Rich drink"
+      ],
+      "photoQuery": [
+        [
+          "kesar badam milk"
+        ],
+        [
+          "drinks"
+        ]
+      ]
+    },
+    {
+      "id": "k05",
+      "name": "Kesaria Thandai",
+      "nameTa": null,
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 70,
+      "rating": 4.8,
+      "reviews": 47,
+      "prepMinutes": 5,
+      "diet": "veg",
+      "spice": "None",
+      "description": "A rich festive cooler made with fennel seeds, watermelon seeds, rose petals, black pepper, saffron and full cream milk.",
+      "descriptionTa": null,
+      "tags": [
+        "Festive special"
+      ],
+      "photoQuery": [
+        [
+          "kesaria thandai"
+        ],
+        [
+          "drinks"
+        ]
+      ]
+    },
+    {
+      "id": "k06",
+      "name": "Madurai Nannari Sharbat",
+      "nameTa": null,
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 45,
+      "rating": 4.7,
+      "reviews": 38,
+      "prepMinutes": 5,
+      "diet": "vegan",
+      "spice": "None",
+      "description": "Traditional herbal root syrup blended with cold water, freshly squeezed lime juice and soaked sabja (basil) seeds.",
+      "descriptionTa": null,
+      "tags": [
+        "Herbal cooler"
+      ],
+      "photoQuery": [
+        [
+          "madurai nannari sharbat"
+        ],
+        [
+          "drinks"
+        ]
+      ]
+    },
+    {
+      "id": "k07",
+      "name": "Fresh Tender Coconut Water",
+      "nameTa": null,
+      "category": "drinks",
+      "meals": [
+        "drinks"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 50,
+      "rating": 4.9,
+      "reviews": 65,
+      "prepMinutes": 5,
+      "diet": "vegan",
+      "spice": "None",
+      "description": "Pure natural sweet tender coconut water, sourced fresh daily, naturally rich in electrolytes and minerals.",
+      "descriptionTa": null,
+      "tags": [
+        "100% natural"
+      ],
+      "photoQuery": [
+        [
+          "fresh tender coconut water"
+        ],
+        [
+          "drinks"
+        ]
+      ]
+    },
+    {
+      "id": "l01",
+      "name": "Baingan Bharta with 3 Phulkas",
+      "nameTa": null,
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c2",
+      "icon": "🍽️",
+      "price": 160,
+      "rating": 4.7,
+      "reviews": 62,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Charcoal-roasted eggplant mashed and sauteed with onions, juicy tomatoes, ginger and green chillies, served with soft phulkas.",
+      "descriptionTa": null,
+      "tags": [
+        "Smoky flavor"
+      ],
+      "photoQuery": [
+        [
+          "baingan bharta with 3 phulkas"
+        ],
+        [
+          "lunch"
+        ]
+      ]
+    },
+    {
+      "id": "l02",
+      "name": "Rajasthani Kadhi Pakora with Rice",
+      "nameTa": null,
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 140,
+      "rating": 4.6,
+      "reviews": 56,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Tangy yoghurt and gram flour curry with soft onion fritters, tempered with fenugreek and red chillies, over steamed basmati.",
+      "descriptionTa": null,
+      "tags": [
+        "Comfort food"
+      ],
+      "photoQuery": [
+        [
+          "rajasthani kadhi pakora with rice"
+        ],
+        [
+          "lunch"
+        ]
+      ]
+    },
+    {
+      "id": "l03",
+      "name": "Paneer Butter Masala Meal Box",
+      "nameTa": null,
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 195,
+      "rating": 4.9,
+      "reviews": 118,
+      "prepMinutes": 35,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Tender cottage cheese cubes in rich tomato makhani gravy, served with jeera rice, 2 butter rotis and salad.",
+      "descriptionTa": null,
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "paneer butter masala meal box"
+        ],
+        [
+          "lunch"
+        ]
+      ]
+    },
+    {
+      "id": "l04",
+      "name": "Malabar Fish Curry with Matta Rice",
+      "nameTa": null,
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c4",
+      "icon": "🍽️",
+      "price": 250,
+      "rating": 4.8,
+      "reviews": 72,
+      "prepMinutes": 40,
+      "diet": "non-veg",
+      "spice": "Hot",
+      "description": "Fresh seer fish cooked in a tangy coconut and Malabar tamarind (kudampuli) curry, served with indigenous Kerala red rice.",
+      "descriptionTa": null,
+      "tags": [
+        "Coastal special"
+      ],
+      "photoQuery": [
+        [
+          "malabar fish curry with matta rice"
+        ],
+        [
+          "lunch"
+        ]
+      ]
+    },
+    {
+      "id": "l05",
+      "name": "Kashmiri Dum Aloo with Jeera Rice",
+      "nameTa": null,
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c3",
+      "icon": "🍽️",
+      "price": 170,
+      "rating": 4.7,
+      "reviews": 59,
+      "prepMinutes": 35,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Baby potatoes pierced and slow-simmered in an authentic fennel and dry-ginger spiced Kashmiri red gravy with fragrant cumin rice.",
+      "descriptionTa": null,
+      "tags": [
+        "Royal taste"
+      ],
+      "photoQuery": [
+        [
+          "kashmiri dum aloo with jeera rice"
+        ],
+        [
+          "lunch"
+        ]
+      ]
+    },
+    {
+      "id": "l06",
+      "name": "Gujarati Dal Dhokli",
+      "nameTa": null,
+      "category": "lunch",
+      "meals": [
+        "lunch"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 130,
+      "rating": 4.6,
+      "reviews": 43,
+      "prepMinutes": 25,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Hand-torn spiced whole wheat dough simmered in sweet, tangy and spicy tuvar dal, garnished with peanuts and ghee.",
+      "descriptionTa": null,
+      "tags": [
+        "Wholesome"
+      ],
+      "photoQuery": [
+        [
+          "gujarati dal dhokli"
+        ],
+        [
+          "lunch"
+        ]
+      ]
+    },
+    {
+      "id": "s01",
+      "name": "Mumbai Pav Bhaji (2 Pav)",
+      "nameTa": null,
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 120,
+      "rating": 4.9,
+      "reviews": 145,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Mashed spiced seasonal vegetables cooked on a tawa with butter, served with toasted butter pav and chopped onions.",
+      "descriptionTa": null,
+      "tags": [
+        "Bestseller"
+      ],
+      "photoQuery": [
+        [
+          "mumbai pav bhaji (2 pav)"
+        ],
+        [
+          "snacks"
+        ]
+      ]
+    },
+    {
+      "id": "s02",
+      "name": "Dahi Vada (2 pc)",
+      "nameTa": null,
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 80,
+      "rating": 4.7,
+      "reviews": 59,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Soft lentil dumplings soaked in chilled beaten curd, topped with roasted cumin powder, sweet tamarind and spicy mint chutney.",
+      "descriptionTa": null,
+      "tags": [
+        "Cooling snack"
+      ],
+      "photoQuery": [
+        [
+          "dahi vada (2 pc)"
+        ],
+        [
+          "snacks"
+        ]
+      ]
+    },
+    {
+      "id": "s03",
+      "name": "Sabudana Vada (2 pc) with Chutney",
+      "nameTa": null,
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 75,
+      "rating": 4.8,
+      "reviews": 63,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Crunchy golden tapioca pearl and potato fritters with roasted crushed peanuts, served with green chilli yoghurt dip.",
+      "descriptionTa": null,
+      "tags": [
+        "Crispy"
+      ],
+      "photoQuery": [
+        [
+          "sabudana vada (2 pc) with chutney"
+        ],
+        [
+          "snacks"
+        ]
+      ]
+    },
+    {
+      "id": "s04",
+      "name": "Mumbai Bhelpuri Chaat",
+      "nameTa": null,
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 60,
+      "rating": 4.6,
+      "reviews": 54,
+      "prepMinutes": 10,
+      "diet": "vegan",
+      "spice": "Medium",
+      "description": "Puffed rice, crisp sev, boiled potatoes and onions tossed live with tangy date-tamarind chutney and spicy green chutney.",
+      "descriptionTa": null,
+      "tags": [
+        "Street classic"
+      ],
+      "photoQuery": [
+        [
+          "mumbai bhelpuri chaat"
+        ],
+        [
+          "snacks"
+        ]
+      ]
+    },
+    {
+      "id": "s05",
+      "name": "Paneer Kathi Roll",
+      "nameTa": null,
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c2",
+      "icon": "🍽️",
+      "price": 95,
+      "rating": 4.8,
+      "reviews": 82,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Flaky paratha rolled with tawa-tossed paneer chunks, crisp sliced onions, chaat masala and mint coriander sauce.",
+      "descriptionTa": null,
+      "tags": [
+        "Quick bite"
+      ],
+      "photoQuery": [
+        [
+          "paneer kathi roll"
+        ],
+        [
+          "snacks"
+        ]
+      ]
+    },
+    {
+      "id": "s06",
+      "name": "Andhra Mirchi Bajji (4 pc)",
+      "nameTa": null,
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 65,
+      "rating": 4.7,
+      "reviews": 48,
+      "prepMinutes": 15,
+      "diet": "vegan",
+      "spice": "Hot",
+      "description": "Spiced long green chillies dipped in ajwain-flavoured gram flour batter, deep fried and stuffed with seasoned onions and lemon.",
+      "descriptionTa": null,
+      "tags": [
+        "Fiery hot"
+      ],
+      "photoQuery": [
+        [
+          "andhra mirchi bajji (4 pc)"
+        ],
+        [
+          "snacks"
+        ]
+      ]
+    },
+    {
+      "id": "s07",
+      "name": "Aloo Tikki Chole Chaat",
+      "nameTa": null,
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 85,
+      "rating": 4.8,
+      "reviews": 76,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Crisp griddled potato patties topped with warm spiced chickpeas, sweet tamarind chutney, curd and nylon sev.",
+      "descriptionTa": null,
+      "tags": [
+        "Chaat favorite"
+      ],
+      "photoQuery": [
+        [
+          "aloo tikki chole chaat"
+        ],
+        [
+          "snacks"
+        ]
+      ]
+    },
+    {
+      "id": "s08",
+      "name": "Crispy Corn Pepper Fry",
+      "nameTa": null,
+      "category": "snacks",
+      "meals": [
+        "snacks"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 80,
+      "rating": 4.5,
+      "reviews": 39,
+      "prepMinutes": 15,
+      "diet": "vegan",
+      "spice": "Medium",
+      "description": "Sweet corn kernels flash-fried until crisp, tossed with crushed black pepper, curry leaves, onions and fresh lime juice.",
+      "descriptionTa": null,
+      "tags": [
+        "Crunchy"
+      ],
+      "photoQuery": [
+        [
+          "crispy corn pepper fry"
+        ],
+        [
+          "snacks"
+        ]
+      ]
+    },
+    {
+      "id": "u01",
+      "name": "Amritsari Kulcha with Chole",
+      "nameTa": null,
+      "category": "brunch",
+      "meals": [
+        "brunch"
+      ],
+      "chefId": "c2",
+      "icon": "🍽️",
+      "price": 150,
+      "rating": 4.9,
+      "reviews": 88,
+      "prepMinutes": 30,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Flaky layered bread stuffed with spiced potatoes and onions, baked crisp and served with Punjabi pindi chole and tamarind chutney.",
+      "descriptionTa": null,
+      "tags": [
+        "Sunday brunch"
+      ],
+      "photoQuery": [
+        [
+          "amritsari kulcha with chole"
+        ],
+        [
+          "brunch"
+        ]
+      ]
+    },
+    {
+      "id": "u02",
+      "name": "Kolhapuri Misal Pav",
+      "nameTa": null,
+      "category": "brunch",
+      "meals": [
+        "brunch"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 110,
+      "rating": 4.8,
+      "reviews": 76,
+      "prepMinutes": 25,
+      "diet": "vegan",
+      "spice": "Hot",
+      "description": "Fiery sprouted moth bean curry topped with spicy kat/tarri, crunchy farsan, raw onions, and 2 soft buttered pav.",
+      "descriptionTa": null,
+      "tags": [
+        "Spicy favorite"
+      ],
+      "photoQuery": [
+        [
+          "kolhapuri misal pav"
+        ],
+        [
+          "brunch"
+        ]
+      ]
+    },
+    {
+      "id": "u03",
+      "name": "Mini Uttapam Trio with Chutneys",
+      "nameTa": null,
+      "category": "brunch",
+      "meals": [
+        "brunch"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 120,
+      "rating": 4.7,
+      "reviews": 63,
+      "prepMinutes": 20,
+      "diet": "veg",
+      "spice": "Mild",
+      "description": "Three fluffy thick rice pancakes topped separately with tomato-onion, podi gunpowder, and vegetable mix, served with 3 chutneys.",
+      "descriptionTa": null,
+      "tags": [
+        "South Indian"
+      ],
+      "photoQuery": [
+        [
+          "mini uttapam trio with chutneys"
+        ],
+        [
+          "brunch"
+        ]
+      ]
+    },
+    {
+      "id": "u04",
+      "name": "Parsi Akuri / Egg Bhurji with Butter Pav",
+      "nameTa": null,
+      "category": "brunch",
+      "meals": [
+        "brunch"
+      ],
+      "chefId": "c5",
+      "icon": "🍽️",
+      "price": 130,
+      "rating": 4.8,
+      "reviews": 71,
+      "prepMinutes": 20,
+      "diet": "non-veg",
+      "spice": "Medium",
+      "description": "Spiced scrambled eggs cooked soft with onions, tomatoes, fresh coriander and green chillies, served with warm butter pav.",
+      "descriptionTa": null,
+      "tags": [
+        "Weekend brunch"
+      ],
+      "photoQuery": [
+        [
+          "parsi akuri / egg bhurji with butter pav"
+        ],
+        [
+          "brunch"
+        ]
+      ]
+    },
+    {
+      "id": "u05",
+      "name": "Poori with Aloo Chana Gravy",
+      "nameTa": null,
+      "category": "brunch",
+      "meals": [
+        "brunch"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 100,
+      "rating": 4.7,
+      "reviews": 55,
+      "prepMinutes": 25,
+      "diet": "veg",
+      "spice": "Medium",
+      "description": "Hot puffed pooris paired with a slow-cooked tangy potato and black chickpea gravy, a Sunday home brunch favorite.",
+      "descriptionTa": null,
+      "tags": [
+        "Comfort food"
+      ],
+      "photoQuery": [
+        [
+          "poori with aloo chana gravy"
+        ],
+        [
+          "brunch"
+        ]
+      ]
+    },
+    {
+      "id": "w01",
+      "name": "Moong Dal Halwa with Almonds",
+      "nameTa": null,
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 95,
+      "rating": 4.9,
+      "reviews": 68,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Yellow lentils slow-roasted in pure desi ghee for hours, sweetened with cardamom syrup and garnished with slivered almonds.",
+      "descriptionTa": null,
+      "tags": [
+        "Desi ghee"
+      ],
+      "photoQuery": [
+        [
+          "moong dal halwa with almonds"
+        ],
+        [
+          "sweets"
+        ]
+      ]
+    },
+    {
+      "id": "w02",
+      "name": "Traditional Ghee Mysore Pak (4 pc)",
+      "nameTa": null,
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 110,
+      "rating": 4.8,
+      "reviews": 79,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Classic royal South Indian melt-in-the-mouth sweet made with roasted gram flour, generous pure ghee and sugar.",
+      "descriptionTa": null,
+      "tags": [
+        "Traditional"
+      ],
+      "photoQuery": [
+        [
+          "traditional ghee mysore pak (4 pc)"
+        ],
+        [
+          "sweets"
+        ]
+      ]
+    },
+    {
+      "id": "w03",
+      "name": "Silver Kaju Katli (6 pc)",
+      "nameTa": null,
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 140,
+      "rating": 4.9,
+      "reviews": 104,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Diamond-shaped delicate fudge made with premium ground cashews, sugar and green cardamom, adorned with silver vark.",
+      "descriptionTa": null,
+      "tags": [
+        "Festive special"
+      ],
+      "photoQuery": [
+        [
+          "silver kaju katli (6 pc)"
+        ],
+        [
+          "sweets"
+        ]
+      ]
+    },
+    {
+      "id": "w04",
+      "name": "Shahi Tukda with Rabdi",
+      "nameTa": null,
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c3",
+      "icon": "🍽️",
+      "price": 85,
+      "rating": 4.8,
+      "reviews": 57,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Ghee-fried bread soaked in fragrant saffron sugar syrup, smothered in thick, creamy slow-reduced rabdi.",
+      "descriptionTa": null,
+      "tags": [
+        "Royal sweet"
+      ],
+      "photoQuery": [
+        [
+          "shahi tukda with rabdi"
+        ],
+        [
+          "sweets"
+        ]
+      ]
+    },
+    {
+      "id": "w05",
+      "name": "South Indian Semiya Payasam",
+      "nameTa": null,
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c1",
+      "icon": "🍽️",
+      "price": 75,
+      "rating": 4.7,
+      "reviews": 49,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Roasted vermicelli simmered in full-cream milk, sweetened with condensed milk, cardamom, and ghee-fried cashews and raisins.",
+      "descriptionTa": null,
+      "tags": [
+        "Festive special"
+      ],
+      "photoQuery": [
+        [
+          "south indian semiya payasam"
+        ],
+        [
+          "sweets"
+        ]
+      ]
+    },
+    {
+      "id": "w06",
+      "name": "Motichoor Ladoo (4 pc)",
+      "nameTa": null,
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 80,
+      "rating": 4.8,
+      "reviews": 62,
+      "prepMinutes": 10,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Tiny pearls of gram flour batter fried in ghee, soaked in saffron syrup and pressed into tender, fragrant round ladoos.",
+      "descriptionTa": null,
+      "tags": [
+        "Classic"
+      ],
+      "photoQuery": [
+        [
+          "motichoor ladoo (4 pc)"
+        ],
+        [
+          "sweets"
+        ]
+      ]
+    },
+    {
+      "id": "w07",
+      "name": "Malpua with Rabdi (2 pc)",
+      "nameTa": null,
+      "category": "sweets",
+      "meals": [
+        "sweets"
+      ],
+      "chefId": "c6",
+      "icon": "🍽️",
+      "price": 95,
+      "rating": 4.8,
+      "reviews": 53,
+      "prepMinutes": 15,
+      "diet": "veg",
+      "spice": "None",
+      "description": "Traditional spiced pancakes dipped in warm saffron sugar syrup, served warm with rich home-churned rabdi.",
+      "descriptionTa": null,
+      "tags": [
+        "Melt in mouth"
+      ],
+      "photoQuery": [
+        [
+          "malpua with rabdi (2 pc)"
+        ],
+        [
+          "sweets"
+        ]
+      ]
+    }
+  ]
+}
