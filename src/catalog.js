@@ -1,6 +1,7 @@
 // The menu (dishes + chefs) lives in the database. This module keeps a small in-memory copy so
 // every order/search does not hit the database, and refreshes it whenever the admin changes the menu.
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
+import path from 'node:path';
 import { foods as foodStore, chefs as chefStore } from './store.js';
 
 export const CATEGORIES = ['breakfast', 'lunch', 'dinner', 'snacks', 'sweets', 'drinks', 'brunch'];
@@ -22,7 +23,23 @@ export const getChef = async (id) => (await allChefs()).find((c) => c.id === id)
 // First start: copy the starting menu from data/catalog.json into empty tables.
 // After that the database is the source of truth (edit it from the admin dashboard).
 export const seedCatalog = async () => {
-  const seed = JSON.parse(readFileSync(new URL('./data/catalog.json', import.meta.url), 'utf8'));
+  let seed = { chefs: [], foods: [] };
+  const candidates = [
+    new URL('./data/catalog.json', import.meta.url),
+    path.resolve(process.cwd(), 'src/data/catalog.json'),
+    path.resolve(process.cwd(), 'backend/src/data/catalog.json'),
+    path.resolve(process.cwd(), 'data/catalog.json')
+  ];
+  for (const c of candidates) {
+    try {
+      if (existsSync(c)) {
+        seed = JSON.parse(readFileSync(c, 'utf8'));
+        break;
+      }
+    } catch {
+      // try next candidate
+    }
+  }
   let added = 0;
   if ((await chefStore.all()).length === 0) {
     for (const c of seed.chefs) { await chefStore.insert(c); added += 1; }

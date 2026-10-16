@@ -1,16 +1,26 @@
 import { app } from '../src/app.js';
 import { bootstrap } from '../src/bootstrap.js';
 
-let initialized = false;
+let bootstrapped = false;
+let bootstrapPromise = null;
 
-export default async function handler(req, res) {
-  if (!initialized) {
-    try {
-      await bootstrap();
-    } catch (err) {
-      console.error('[bootstrap] Initialization warning:', err.message);
+// Middleware ensures catalog & admin bootstrap runs before requests are handled
+app.use(async (req, res, next) => {
+  if (!bootstrapped) {
+    if (!bootstrapPromise) {
+      bootstrapPromise = (async () => {
+        try {
+          await bootstrap();
+        } catch (err) {
+          console.warn('[bootstrap] Initialization warning:', err.message);
+        } finally {
+          bootstrapped = true;
+        }
+      })();
     }
-    initialized = true;
+    await bootstrapPromise;
   }
-  return app(req, res);
-}
+  next();
+});
+
+export default app;

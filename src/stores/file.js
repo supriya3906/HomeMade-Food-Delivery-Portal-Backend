@@ -3,7 +3,8 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const dir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../data');
+const isVercel = Boolean(process.env.VERCEL);
+const dir = isVercel ? path.resolve('/tmp', 'rasoi-data') : path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../data');
 const file = path.join(dir, 'store.json');
 
 export const createFileStore = () => {

@@ -82,8 +82,11 @@ const friendly = (err, cfg) => {
 
 export const createMysqlStore = async (cfg) => {
   if (!/^\w+$/.test(cfg.name)) throw new Error('DB_NAME may only contain letters, numbers and underscores.');
+  if (process.env.VERCEL && (cfg.host === 'localhost' || cfg.host === '127.0.0.1')) {
+    throw new Error('Running on Vercel with DB_HOST="localhost". Localhost is not reachable from Vercel. Set your cloud MySQL host in Vercel settings.');
+  }
   const ssl = (cfg.ssl || process.env.DB_SSL === 'true' || process.env.DB_SSL === '1') ? { rejectUnauthorized: false } : undefined;
-  const base = { host: cfg.host, port: cfg.port, user: cfg.user, password: cfg.password, timezone: 'Z', ...(ssl ? { ssl } : {}) };
+  const base = { host: cfg.host, port: cfg.port, user: cfg.user, password: cfg.password, timezone: 'Z', connectTimeout: 4000, ...(ssl ? { ssl } : {}) };
   let pool;
   try {
     try {

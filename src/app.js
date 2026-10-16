@@ -17,6 +17,20 @@ export const app = express();
 app.use(cors({ origin: config.corsOrigin }));
 app.use(express.json({ limit: '100kb' }));
 
+app.get('/', (req, res) => {
+  res.json({
+    status: 'online',
+    message: 'Rasoi Food Delivery Backend API is running successfully!',
+    database: storeStatus.kind,
+    endpoints: {
+      health: '/api/health',
+      foods: '/api/foods',
+      chefs: '/api/chefs',
+      offers: '/api/offers'
+    }
+  });
+});
+
 app.get('/api/health', (req, res) => res.json({ ok: true, database: storeStatus.kind }));
 app.use('/api/auth', authRoutes);
 app.use('/api/offers', offersRoutes);
@@ -28,7 +42,9 @@ app.use('/api/recent', recentRoutes);
 app.use('/api/assistant', assistantRoutes);
 app.use('/api', catalogRoutes);
 
-app.use('/api', (req, res) => res.status(404).json({ message: 'Not found.' }));
+app.use((req, res) => {
+  res.status(404).json({ message: `Route ${req.method} ${req.originalUrl || req.url} not found. API endpoints start with /api.` });
+});
 // eslint-disable-next-line no-unused-vars
 app.use((err, req, res, next) => {
   const status = err.status || 500;
